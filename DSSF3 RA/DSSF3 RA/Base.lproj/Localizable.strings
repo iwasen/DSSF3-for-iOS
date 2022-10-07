@@ -1,0 +1,82 @@
+/*
+ en.strings
+ DSSF3
+
+ Created by 相沢伸一 on 2015/04/21.
+ Copyright (c) 2015年 YMEC. All rights reserved.
+ */
+/*
+ RA
+ */
+"IDS_CORRELATION" = "Correlation";
+"IDS_PHASE2" = "Phase";
+"IDS_LEFTCHANNEL" = "Left channel";
+"IDS_RIGHTCHANNEL" = "Right channel";
+"IDS_NONE_HOSEI" = "None";
+"IDS_RETRY" = "Retry (%d times)";
+"IDS_MICINFO" = "Microphone Info.";
+"IDS_MICAMPINFO" = "Microphone Amp. Info.";
+"IDS_INFINITE" = "Infinite";
+"IDS_DISTORTION" = "Distortion";
+"IDS_HARMONICS" = "Harmonics";
+"IDS_SINUSOIDAL" = "Sinusoidal";
+"IDS_TRIANGULAR" = "Triangular";
+"IDS_SQUARE" = "Square";
+"IDS_SAWTOOTH" = "Sawtooth";
+"IDS_MONO" = "Mono (L+R)";
+"IDS_STEREO" = "Stereo";
+"IDS_RIGHT_AND_LEFT" = "Right && Left Channel";
+"IDS_LEFT_ONLY" = "Left only";
+"IDS_RIGHT_ONLY" = "Right only";
+"IDS_DIFFERENCE" = "Differ (L-R)";
+"IDS_WAVE" = "Wave";
+"IDS_WAVEFORM" = "Waveform";
+"IDS_COHERENCE2" = "Coherence";
+"IDS_FM_SYNTH" = "FM Synth";
+"IDS_RECORDING" = "Recording";
+"IDS_PLAYING" = "Playing";
+"IDS_RECORDED" = "Recorded";
+"IDS_NOT_RECORDED" = "Not Recorded";
+"IDS_MSG_SAVEMICCAL" = "Save new microphone calibration data. Are you sure?";
+"IDS_MSG_INPUTMICINFO" = "Input information about microphone.";
+"IDS_MSG_SELECTMICCAL" = "Select microphone calibration data.";
+"IDS_MSG_CHANGEMICCAL" = "Make a change on microphone calibration data. Are you sure?";
+"IDS_CANCEL" = "Cancel";
+"IDS_MSG_SELECTMICCAL" = "Select microphone calibration data.";
+"IDS_MSG_DELTEMICCAL" = "Delete microphone calibration data. Are you sure?";
+"IDS_MSG_CHANGEDATA" = "Data has changed. Save it?";
+"IDS_MSG_UNDER0FREQ" = "Can't input data with under 0 frequency.";
+"IDS_MSG_INPUTNDATA" = "Can't input more than %d data.";
+/*
+ common
+ */
+"IDS_FREQUENCY" = "Frequency";
+"IDS_SPL" = "SPL";
+"IDS_TIME" = "Time";
+"IDS_AMPLITUDE" = "Amplitude";
+"IDS_TAU" = "τ";
+"IDS_NONE" = "None";
+"IDS_AWEIGHTING" = "A-weighting";
+"IDS_BWEIGHTING" = "B-weighting";
+"IDS_CWEIGHTING" = "C-weighting";
+"IDS_FLAT" = "Flat";
+"IDS_LEVEL" = "Level";
+"IDS_ERR_CREATEMICCAL" = "Can't create microphone caliblation file.";
+"IDS_ERR_OPENMICCAL" = "Can't open microphone caliblation file.";
+"IDS_ERR_CONVERTMICCAL" = "Can't convert microphone caliblation file.";
+"IDS_ERR_CREATEMICCALINDEX" = "Can't create microphone caliblation index file.";
+"IDS_ERR_READMICCAL" = "Can't read microphone caliblation file.";
+"IDS_ERR_WRITEMICCAL" = "Can't write microphone caliblation file.";
+"IDS_ERR_DELETEMICCAL" = "Can't delete microphone caliblation file.";
+"IDS_ERR_OUTOFMEMORY" = "Out of memory";
+/*
+ add
+ */
+"IDS_MICRO" = "μ";
+"IDS_GRAPH" = "Graph";
+"IDS_SETTINGS" = "Settings";
+"IDS_CANCEL" = "Cancel";
+"IDS_BACK" = "Back";
+"IDS_SAVE" = "Save";
+"IDS_LOAD" = "Load";
+"IDS_MSG_SAVEFILENAME" = "Please input a file name to save.";

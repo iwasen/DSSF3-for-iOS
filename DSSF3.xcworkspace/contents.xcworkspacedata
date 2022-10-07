@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:DSSF3 RA/DSSF3 RA.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DSSF3 SA/DSSF3 SA.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PCSERVE/PCSERVE.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PCSCL/PCSCL.xcodeproj">
+   </FileRef>
+</Workspace>

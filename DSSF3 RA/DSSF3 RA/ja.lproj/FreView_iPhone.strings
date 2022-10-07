@@ -1,0 +1,45 @@
+/* Class = "UILabel"; text = "Begin"; ObjectID = "E0J-jv-gbC"; */
+"E0J-jv-gbC.text" = "開始";
+
+/* Class = "UILabel"; text = "Frequency"; ObjectID = "GPA-h0-9bp"; */
+"GPA-h0-9bp.text" = "周波数";
+
+/* Class = "UILabel"; text = "End"; ObjectID = "HCD-Zg-KSX"; */
+"HCD-Zg-KSX.text" = "終了";
+
+/* Class = "UILabel"; text = "Begin"; ObjectID = "Lxw-dt-dUW"; */
+"Lxw-dt-dUW.text" = "開始";
+
+/* Class = "UILabel"; text = "End"; ObjectID = "M5r-Xq-YT2"; */
+"M5r-Xq-YT2.text" = "終了";
+
+/* Class = "UILabel"; text = "Begin"; ObjectID = "P79-kj-bjg"; */
+"P79-kj-bjg.text" = "開始";
+
+/* Class = "UILabel"; text = "Sweep Time"; ObjectID = "Rcy-V1-Ter"; */
+"Rcy-V1-Ter.text" = "測定時間";
+
+/* Class = "UILabel"; text = "Resolution"; ObjectID = "Su1-Oh-T3x"; */
+"Su1-Oh-T3x.text" = "分解能";
+
+/* Class = "UILabel"; text = "Point"; ObjectID = "ZFn-uT-hEO"; */
+"ZFn-uT-hEO.text" = "測定点数";
+
+/* Class = "UILabel"; text = "Frequency"; ObjectID = "a7M-ro-9iN"; */
+"a7M-ro-9iN.text" = "周波数";
+
+/* Class = "UILabel"; text = "Averaging"; ObjectID = "ggE-d3-NvB"; */
+"ggE-d3-NvB.text" = "平均化";
+
+/* Class = "UILabel"; text = "End"; ObjectID = "rZd-SU-3aa"; */
+"rZd-SU-3aa.text" = "終了";
+
+"5wE-6g-YEV.normalTitle" = "開始";
+"oNd-1t-icF.text" = "上限";
+"sII-7n-z5E.text" = "下限";
+"LyW-Ge-99N.normalTitle" = "開始";
+"Ow6-D1-J2y.text" = "上限";
+"dmO-Tb-DZZ.text" = "下限";
+"hhK-nc-3vw.normalTitle" = "開始";
+"WnB-GI-pGi.text" = "上限";
+"2HS-HS-fGO.text" = "下限";

@@ -1,0 +1,148 @@
+/*
+  ja.strings
+  DSSF3
+
+  Created by 相沢伸一 on 2015/04/04.
+  Copyright (c) 2015年 YMEC. All rights reserved.
+*/
+
+"IDS_CORRELATION" = "相関関数";
+"IDS_PHASE2" = "位相差";
+"IDS_LEFTCHANNEL" = "左チャネル";
+"IDS_RIGHTCHANNEL" = "右チャネル";
+"IDS_NONE_HOSEI" = "補正なし";
+"IDS_RETRY" = "リトライ中 （%d 回目）";
+"IDS_MICINFO" = "マイク情報";
+"IDS_MICAMPINFO" = "マイクアンプ情報";
+"IDS_INFINITE" = "無限";
+"IDS_DISTORTION" = "歪率";
+"IDS_HARMONICS" = "高調波";
+"IDS_SINUSOIDAL" = "正弦波";
+"IDS_TRIANGULAR" = "三角波";
+"IDS_SQUARE" = "方形波";
+"IDS_SAWTOOTH" = "のこぎり波";
+"IDS_MONO" = "モノラル(L+R)";
+"IDS_STEREO" = "ステレオ";
+"IDS_RIGHT_AND_LEFT" = "両チャネル";
+"IDS_LEFT_ONLY" = "左(L)のみ";
+"IDS_RIGHT_ONLY" = "右(R)のみ";
+"IDS_DIFFERENCE" = "差分(L-R)";
+"IDS_WAVE" = "波形";
+"IDS_WAVEFORM" = "任意波形";
+"IDS_COHERENCE2" = "コヒーレンス";
+"IDS_FM_SYNTH" = "FM音源";
+"IDS_RECORDING" = "録音中";
+"IDS_PLAYING" = "再生中";
+"IDS_RECORDED" = "録音済み";
+"IDS_NOT_RECORDED" = "未録音";
+"IDS_MSG_SAVEMICCAL" = "マイク校正情報を新規に保存します。よろしいですか？";
+"IDS_MSG_INPUTMICINFO" = "マイク情報を入力してください。";
+"IDS_MSG_SELECTMICCAL" = "マイク校正情報を選択してください。";
+"IDS_MSG_CHANGEMICCAL" = "マイク校正情報を変更します。よろしいですか？";
+"IDS_CANCEL" = "キャンセル";
+"IDS_MSG_SELECTMICCAL" = "マイク校正情報を選択してください。";
+"IDS_MSG_DELTEMICCAL" = "マイク校正情報を削除します。よろしいですか？";
+"IDS_MSG_CHANGEDATA" = "データが変更されています。保存しますか？";
+"IDS_MSG_UNDER0FREQ" = "周波数が０以下のデータは入力できません。";
+"IDS_MSG_INPUTNDATA" = "追加できるデータは %d 個までです。";
+/*
+common
+*/
+"IDS_FREQUENCY" = "周波数";
+"IDS_SPL" = "音圧レベル";
+"IDS_TIME" = "時間";
+"IDS_AMPLITUDE" = "振幅";
+"IDS_TAU" = "τ";
+"IDS_NONE" = "無し";
+"IDS_AWEIGHTING" = "A 特性";
+"IDS_BWEIGHTING" = "B 特性";
+"IDS_CWEIGHTING" = "C 特性";
+"IDS_FLAT" = "Flat";
+"IDS_LEVEL" = "レベル";
+"IDS_ERR_CREATEMICCAL" = "マイク校正情報の作成に失敗しました。";
+"IDS_ERR_OPENMICCAL" = "マイク校正情報ファイルのオープンに失敗しました。";
+"IDS_ERR_CONVERTMICCAL" = "マイク校正情報ファイルの変換に失敗しました。";
+"IDS_ERR_CREATEMICCALINDEX" = "マイク校正情報インデックスファイルの作成に失敗しました。";
+"IDS_ERR_READMICCAL" = "マイク校正情報ファイルの読み込みに失敗しました。";
+"IDS_ERR_WRITEMICCAL" = "マイク校正情報ファイルの書き込みに失敗しました。";
+"IDS_ERR_DELETEMICCAL" = "マイク校正情報データの削除に失敗しました。";
+"IDS_ERR_OUTOFMEMORY" = "メモリ不足が発生しました。";
+/*
+ add
+*/
+"IDS_MICRO" = "μ";
+"IDS_GRAPH" = "グラフ";
+"IDS_SETTINGS" = "設定";
+"IDS_CANCEL" = "キャンセル";
+"IDS_BACK" = "戻る";
+"IDS_SAVE" = "保存";
+"IDS_LOAD" = "読み込み";
+"IDS_MSG_SAVEFILENAME" = "保存するファイル名を入力してください。";
+
+/*
+ GroupBox
+*/
+"Automatic Stop" = "自動停止";
+"Channel" = "チャネル";
+"Channel Mode" = "チャネル";
+"Color Scale" = "カラースケール";
+"Corralation" = "相関関数";
+"Delay Time" = "ディレイ時間";
+"Direction of Axis" = "時間軸方向";
+"Display Mode" = "表示設定";
+"FFT Size" = "FFTサイズ";
+"Freq. Axis" = "周波数軸";
+"Freq. Weighting" = "フィルタ特性";
+"Frequency" = "周波数";
+"Frequency Component" = "周波数成分";
+"Frequency Range" = "周波数範囲";
+"Fundamental Frequency" = "基本周波数";
+"Input Mode" = "入力設定";
+"Level" = "レベル";
+"Level Range" = "レベル範囲";
+"Measurement" = "測定";
+"Measurement Conditions" = "測定条件";
+"Mode" = "動作モード";
+"Moving Average" = "移動平均";
+"Noise" = "種類";
+"Number of Data" = "時間軸データ数";
+"Octave" = "オクターブ";
+"Octave Band" = "オクターブバンド";
+"Peak Detection" = "ピーク検出";
+"Phase Difference (L - R)" = "位相差 (L - R)";
+"Position" = "位置";
+"Presets [Hz]" = "プリセット [Hz]";
+"Reference Pitch" = "基準音程";
+"Sampling Rate" = "サンプリング";
+"Scale" = "音程";
+"Slope" = "スロープ";
+"Smoothing" = "平滑化";
+"Sound Volume" = "音量";
+"Sweep Time" = "掃引時間";
+"Time Difference (L - R)" = "時間差 (L - R)";
+"Time Range" = "時間範囲";
+"Time Resolution" = "時間分解能";
+"Time Window" = "窓関数";
+"Trigger Settings" = "トリガ設定";
+"Waveform" = "波形";
+"Zooming" = "時間軸拡大";
+"Graph Scale" = "グラフスケール";
+"Measurement Frequency" = "測定周波数";
+"Measurement Level" = "測定レベル";
+"Display Settings" = "表示設定";
+"THD" = "歪率";
+"Measure Time" = "測定時間";
+"Method" = "測定方法";
+"Summation" = "同期加算回数";
+"Adjustment" = "調整";
+"Data Export" = "データ転送";
+"Calibration Data list" = "校正データリスト";
+"Information" = "設定情報";
+"Sensitivity Adjustment" = "感度調整";
+"Frequency Response" = "マイク周波数特性";
+"Wave File" = "Waveファイル";
+"Selection" = "範囲選択";
+"Sampling" = "サンプリング";
+"Output Level" = "出力レベル";
+"Auto Recording" = "自動記録";
+"Save Location" = "保存場所";

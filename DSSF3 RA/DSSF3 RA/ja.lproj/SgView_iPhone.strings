@@ -1,0 +1,93 @@
+
+/* Class = "UISegmentedControl"; 25N-I6-l7a.segmentTitles[0] = "First"; ObjectID = "25N-I6-l7a"; */
+"25N-I6-l7a.segmentTitles[0]" = "正";
+
+/* Class = "UISegmentedControl"; 25N-I6-l7a.segmentTitles[1] = "負"; ObjectID = "25N-I6-l7a"; */
+"25N-I6-l7a.segmentTitles[1]" = "負";
+
+/* Class = "UISegmentedControl"; 25N-I6-l7a.segmentTitles[2] = "交互"; ObjectID = "25N-I6-l7a"; */
+"25N-I6-l7a.segmentTitles[2]" = "交互";
+
+/* Class = "UILabel"; text = "パルス幅"; ObjectID = "3bg-xa-ND7"; */
+"3bg-xa-ND7.text" = "パルス幅";
+
+/* Class = "UILabel"; text = "周波数[x]"; ObjectID = "3dz-m0-Kuv"; */
+"3dz-m0-Kuv.text" = "周波数[x]";
+
+/* Class = "UILabel"; text = "左"; ObjectID = "99l-RU-XcR"; */
+"99l-RU-XcR.text" = "左";
+
+/* Class = "UILabel"; text = "開始"; ObjectID = "9Pm-ze-qkS"; */
+"9Pm-ze-qkS.text" = "開始";
+
+/* Class = "UILabel"; text = "終了"; ObjectID = "HOs-3r-dGY"; */
+"HOs-3r-dGY.text" = "終了";
+
+/* Class = "UILabel"; text = "周期"; ObjectID = "IWp-eb-9uf"; */
+"IWp-eb-9uf.text" = "周期";
+
+/* Class = "UILabel"; text = "極性"; ObjectID = "LaD-iF-qbY"; */
+"LaD-iF-qbY.text" = "極性";
+
+/* Class = "UIButton"; normalTitle = "ループ"; ObjectID = "Lbc-vx-AJV"; */
+"Lbc-vx-AJV.normalTitle" = "ループ";
+
+/* Class = "UILabel"; text = "右"; ObjectID = "Q3O-WR-ky6"; */
+"Q3O-WR-ky6.text" = "右";
+
+/* Class = "UIButton"; normalTitle = "連動"; ObjectID = "REA-XA-SVl"; */
+"REA-XA-SVl.normalTitle" = "連動";
+
+/* Class = "UILabel"; text = "波形"; ObjectID = "RGM-Ps-Ldi"; */
+"RGM-Ps-Ldi.text" = "波形";
+
+/* Class = "UILabel"; text = "スイープ時間"; ObjectID = "RoX-Sf-mnh"; */
+"RoX-Sf-mnh.text" = "スイープ時間";
+
+/* Class = "UIButton"; normalTitle = "連続"; ObjectID = "TdM-fi-EIH"; */
+"TdM-fi-EIH.normalTitle" = "連続";
+
+/* Class = "UISegmentedControl"; UO8-De-nOT.segmentTitles[0] = "モノラル"; ObjectID = "UO8-De-nOT"; */
+"UO8-De-nOT.segmentTitles[0]" = "モノラル";
+
+/* Class = "UISegmentedControl"; UO8-De-nOT.segmentTitles[1] = "左右独立"; ObjectID = "UO8-De-nOT"; */
+"UO8-De-nOT.segmentTitles[1]" = "左右独立";
+
+/* Class = "UISegmentedControl"; UO8-De-nOT.segmentTitles[2] = "逆相"; ObjectID = "UO8-De-nOT"; */
+"UO8-De-nOT.segmentTitles[2]" = "逆相";
+
+/* Class = "UIButton"; normalTitle = "0度"; ObjectID = "Wh4-ay-lTr"; */
+"Wh4-ay-lTr.normalTitle" = "0度";
+
+/* Class = "UISegmentedControl"; XE2-95-txG.segmentTitles[0] = "ホワイトノイズ"; ObjectID = "XE2-95-txG"; */
+"XE2-95-txG.segmentTitles[0]" = "ホワイトノイズ";
+
+/* Class = "UISegmentedControl"; XE2-95-txG.segmentTitles[1] = "ピンクノイズ"; ObjectID = "XE2-95-txG"; */
+"XE2-95-txG.segmentTitles[1]" = "ピンクノイズ";
+
+/* Class = "UISegmentedControl"; XE2-95-txG.segmentTitles[2] = "ブラウンノイズ"; ObjectID = "XE2-95-txG"; */
+"XE2-95-txG.segmentTitles[2]" = "ブラウンノイズ";
+
+/* Class = "UILabel"; text = "終了"; ObjectID = "YgG-Q5-Phw"; */
+"YgG-Q5-Phw.text" = "終了";
+
+/* Class = "UILabel"; text = "開始"; ObjectID = "dZx-06-0gJ"; */
+"dZx-06-0gJ.text" = "開始";
+
+/* Class = "UILabel"; text = "度"; ObjectID = "nH2-zu-K3M"; */
+"nH2-zu-K3M.text" = "度";
+
+/* Class = "UILabel"; text = "最大レンジ"; ObjectID = "qag-dg-UXY"; */
+"qag-dg-UXY.text" = "最大レンジ";
+
+/* Class = "UILabel"; text = "周波数レンジ"; ObjectID = "rvY-oe-Qta"; */
+"rvY-oe-Qta.text" = "周波数レンジ";
+
+/* Class = "UILabel"; text = "レベル[%]"; ObjectID = "vP0-Jl-MGg"; */
+"vP0-Jl-MGg.text" = "レベル[%]";
+
+/* Class = "UILabel"; text = "パルス数"; ObjectID = "vuE-0G-SDu"; */
+"vuE-0G-SDu.text" = "パルス数";
+
+/* Class = "UIButton"; normalTitle = "演奏モード"; ObjectID = "x3h-bJ-Gvf"; */
+"x3h-bJ-Gvf.normalTitle" = "演奏モード";

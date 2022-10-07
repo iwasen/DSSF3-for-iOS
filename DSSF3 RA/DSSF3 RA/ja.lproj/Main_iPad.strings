@@ -1,0 +1,219 @@
+
+/* Class = "UILabel"; text = "下限"; ObjectID = "3v3-jZ-UFg"; */
+"3v3-jZ-UFg.text" = "下限";
+
+/* Class = "UIButton"; normalTitle = "リセット"; ObjectID = "7zy-g7-y8V"; */
+"7zy-g7-y8V.normalTitle" = "リセット";
+
+/* Class = "UISegmentedControl"; Coc-9e-ddC.segmentTitles[0] = "色調"; ObjectID = "Coc-9e-ddC"; */
+"Coc-9e-ddC.segmentTitles[0]" = "色調";
+
+/* Class = "UISegmentedControl"; Coc-9e-ddC.segmentTitles[1] = "濃淡"; ObjectID = "Coc-9e-ddC"; */
+"Coc-9e-ddC.segmentTitles[1]" = "濃淡";
+
+/* Class = "UISegmentedControl"; EHC-dN-7ZX.segmentTitles[0] = "対数"; ObjectID = "EHC-dN-7ZX"; */
+"EHC-dN-7ZX.segmentTitles[0]" = "対数";
+
+/* Class = "UISegmentedControl"; EHC-dN-7ZX.segmentTitles[1] = "直線"; ObjectID = "EHC-dN-7ZX"; */
+"EHC-dN-7ZX.segmentTitles[1]" = "直線";
+
+/* Class = "UILabel"; text = "自動調整"; ObjectID = "GtI-O9-VgM"; */
+"GtI-O9-VgM.text" = "自動調整";
+
+/* Class = "UITabBarItem"; title = "FFTアナライザ"; ObjectID = "KLX-rX-sVr"; */
+"KLX-rX-sVr.title" = "FFTアナライザ";
+
+/* Class = "UILabel"; text = "出力"; ObjectID = "KVZ-I2-Bd6"; */
+"KVZ-I2-Bd6.text" = "出力";
+
+/* Class = "UILabel"; text = "上限"; ObjectID = "WOR-Ca-9Jd"; */
+"WOR-Ca-9Jd.text" = "上限";
+
+/* Class = "UILabel"; text = "下限"; ObjectID = "YBP-yX-0eg"; */
+"YBP-yX-0eg.text" = "下限";
+
+/* Class = "UILabel"; text = "ﾋﾟｰｸﾎｰﾙﾄﾞ"; ObjectID = "ahH-f3-20W"; */
+"ahH-f3-20W.text" = "ﾋﾟｰｸﾎｰﾙﾄﾞ";
+
+/* Class = "UITabBarItem"; title = "シグナルジェネレータ"; ObjectID = "cQR-0g-8rk"; */
+"cQR-0g-8rk.title" = "シグナルジェネレータ";
+
+/* Class = "UILabel"; text = "ﾋﾟｰｸ値表示"; ObjectID = "cVb-5L-W8x"; */
+"cVb-5L-W8x.text" = "ﾋﾟｰｸ値表示";
+
+/* Class = "UISegmentedControl"; d6y-XX-rCf.segmentTitles[0] = "トーン"; ObjectID = "d6y-XX-rCf"; */
+"d6y-XX-rCf.segmentTitles[0]" = "トーン";
+
+/* Class = "UISegmentedControl"; d6y-XX-rCf.segmentTitles[1] = "ノイズ"; ObjectID = "d6y-XX-rCf"; */
+"d6y-XX-rCf.segmentTitles[1]" = "ノイズ";
+
+/* Class = "UISegmentedControl"; d6y-XX-rCf.segmentTitles[2] = "スイープ"; ObjectID = "d6y-XX-rCf"; */
+"d6y-XX-rCf.segmentTitles[2]" = "スイープ";
+
+/* Class = "UISegmentedControl"; d6y-XX-rCf.segmentTitles[3] = "パルス"; ObjectID = "d6y-XX-rCf"; */
+"d6y-XX-rCf.segmentTitles[3]" = "パルス";
+
+/* Class = "UISegmentedControl"; d6y-XX-rCf.segmentTitles[4] = "合成"; ObjectID = "d6y-XX-rCf"; */
+"d6y-XX-rCf.segmentTitles[4]" = "合成";
+
+/* Class = "UISegmentedControl"; d6y-XX-rCf.segmentTitles[5] = "音階"; ObjectID = "d6y-XX-rCf"; */
+"d6y-XX-rCf.segmentTitles[5]" = "音階";
+
+/* Class = "UITabBarItem"; title = "オシロスコープ"; ObjectID = "dZ0-nR-pAD"; */
+"dZ0-nR-pAD.title" = "オシロスコープ";
+
+/* Class = "UISegmentedControl"; fLf-5q-u92.segmentTitles[0] = "前方"; ObjectID = "fLf-5q-u92"; */
+"fLf-5q-u92.segmentTitles[0]" = "前方";
+
+/* Class = "UISegmentedControl"; fLf-5q-u92.segmentTitles[1] = "後方"; ObjectID = "fLf-5q-u92"; */
+"fLf-5q-u92.segmentTitles[1]" = "後方";
+
+/* Class = "UISegmentedControl"; fzf-UU-wwe.segmentTitles[0] = "自己"; ObjectID = "fzf-UU-wwe"; */
+"fzf-UU-wwe.segmentTitles[0]" = "自己";
+
+/* Class = "UISegmentedControl"; fzf-UU-wwe.segmentTitles[1] = "相互"; ObjectID = "fzf-UU-wwe"; */
+"fzf-UU-wwe.segmentTitles[1]" = "相互";
+
+/* Class = "UILabel"; text = "L-R分割表示"; ObjectID = "hHK-xn-ypY"; */
+"hHK-xn-ypY.text" = "L-R分割表示";
+
+/* Class = "UILabel"; text = "自動調整"; ObjectID = "hks-SM-Bvt"; */
+"hks-SM-Bvt.text" = "自動調整";
+
+/* Class = "UILabel"; text = "入力"; ObjectID = "lYF-oM-wz9"; */
+"lYF-oM-wz9.text" = "入力";
+
+/* Class = "UISegmentedControl"; rpL-qf-gUg.segmentTitles[0] = "ﾊﾟﾜｰｽﾍﾟｸﾄﾙ"; ObjectID = "rpL-qf-gUg"; */
+"rpL-qf-gUg.segmentTitles[0]" = "ﾊﾟﾜｰｽﾍﾟｸﾄﾙ";
+
+/* Class = "UISegmentedControl"; rpL-qf-gUg.segmentTitles[1] = "ｵｸﾀｰﾌﾞﾊﾞﾝﾄﾞ"; ObjectID = "rpL-qf-gUg"; */
+"rpL-qf-gUg.segmentTitles[1]" = "ｵｸﾀｰﾌﾞﾊﾞﾝﾄﾞ";
+
+/* Class = "UISegmentedControl"; rpL-qf-gUg.segmentTitles[2] = "3次元表示"; ObjectID = "rpL-qf-gUg"; */
+"rpL-qf-gUg.segmentTitles[2]" = "3次元表示";
+
+/* Class = "UISegmentedControl"; rpL-qf-gUg.segmentTitles[3] = "相関関数"; ObjectID = "rpL-qf-gUg"; */
+"rpL-qf-gUg.segmentTitles[3]" = "相関関数";
+
+/* Class = "UISegmentedControl"; rpL-qf-gUg.segmentTitles[4] = "位相差"; ObjectID = "rpL-qf-gUg"; */
+"rpL-qf-gUg.segmentTitles[4]" = "位相差";
+
+/* Class = "UISegmentedControl"; rpL-qf-gUg.segmentTitles[5] = "声紋"; ObjectID = "rpL-qf-gUg"; */
+"rpL-qf-gUg.segmentTitles[5]" = "声紋";
+
+/* Class = "UISegmentedControl"; rpL-qf-gUg.segmentTitles[6] = "ｸﾛｽｽﾍﾟｸﾄﾙ"; ObjectID = "rpL-qf-gUg"; */
+"rpL-qf-gUg.segmentTitles[6]" = "ｸﾛｽｽﾍﾟｸﾄﾙ";
+
+/* Class = "UISegmentedControl"; rpL-qf-gUg.segmentTitles[7] = "ｺﾋｰﾚﾝｽ関数"; ObjectID = "rpL-qf-gUg"; */
+"rpL-qf-gUg.segmentTitles[7]" = "ｺﾋｰﾚﾝｽ関数";
+
+/* Class = "UISegmentedControl"; rpL-qf-gUg.segmentTitles[8] = "ｹﾌﾟｽﾄﾗﾑ"; ObjectID = "rpL-qf-gUg"; */
+"rpL-qf-gUg.segmentTitles[8]" = "ｹﾌﾟｽﾄﾗﾑ";
+
+/* Class = "UISegmentedControl"; sUH-wL-f2X.segmentTitles[0] = "自動ﾘｾｯﾄ"; ObjectID = "sUH-wL-f2X"; */
+"sUH-wL-f2X.segmentTitles[0]" = "自動ﾘｾｯﾄ";
+
+/* Class = "UISegmentedControl"; sUH-wL-f2X.segmentTitles[1] = "手動ﾘｾｯﾄ"; ObjectID = "sUH-wL-f2X"; */
+"sUH-wL-f2X.segmentTitles[1]" = "手動ﾘｾｯﾄ";
+
+/* Class = "UILabel"; text = "上限"; ObjectID = "w1g-IA-pr2"; */
+"w1g-IA-pr2.text" = "上限";
+
+"ufN-nH-jr8.normalTitle" = "連動";
+"uAX-hD-Aaf.normalTitle" = "自動";
+"c2W-Ty-7Wj.normalTitle" = "自動";
+"XHC-YI-Ugi.normalTitle" = "ピーク値表示";
+"aej-Wc-Vw2.normalTitle" = "ピークホールド";
+"pqh-Io-djq.normalTitle" = "自動調整";
+"J5y-rJ-NKb.normalTitle" = "連動";
+"7aa-UY-dyz.normalTitle" = "中央";
+"Q4Z-XY-tZY.normalTitle" = "上下";
+"t89-iv-lyE.normalTitle" = "自動";
+"z5u-UO-vSl.normalTitle" = "ﾊｲｶｯﾄ";
+"g1M-nV-K1U.normalTitle" = "ﾛｰｶｯﾄ";
+"1Dx-Ra-5fe.normalTitle" = "相対位置";
+"KQb-fr-Rvf.normalTitle" = "表示";
+"OY9-bj-HrC.normalTitle" = "オートトリガ";
+"2c5-on-V4e.normalTitle" = "シングル";
+"fvx-8h-6iv.normalTitle" = "リセット";
+"oXo-MU-RRy.text" = "サンプリング";
+"VdB-BE-cSZ.text" = "チャネル";
+"4V8-32-zQd.segmentTitles[0]" = "上昇";
+"4V8-32-zQd.segmentTitles[1]" = "下降";
+"4Li-29-ivE.normalTitle" = "Lch反転";
+"Do7-D6-SBE.normalTitle" = "Rch反転";
+"FyE-ze-gcJ.normalTitle" = "ｾﾞﾛﾚﾍﾞﾙ";
+"Mh6-8o-n5Q.title" = "周波数特性";
+"oBW-Ma-ENh.normalTitle" = "開始";
+"oBW-Ma-ENh.selectedTitle" = "終了";
+"Q1m-Co-iCa.segmentTitles[0]" = "周波数スイープ";
+"Q1m-Co-iCa.segmentTitles[1]" = "スポット周波数";
+"Q1m-Co-iCa.segmentTitles[2]" = "ピンクノイズ";
+"gzf-zX-IC2.text" = "上限";
+"i39-4G-hif.text" = "下限";
+"JIU-Nu-Kxh.segmentTitles[0]" = "マニュアル測定";
+"JIU-Nu-Kxh.segmentTitles[1]" = "周波数スイープ";
+"JIU-Nu-Kxh.segmentTitles[2]" = "レベルスイープ";
+"V54-vz-sUm.text" = "最大";
+"8XG-RE-kKe.text" = "最小";
+"Lf9-7h-rB4.normalTitle" = "開始";
+"Lf9-7h-rB4.selectedTitle" = "終了";
+"3JN-DS-auT.title" = "歪率測定";
+"cAn-ae-BSv.normalTitle" = "開始";
+"cAn-ae-BSv.selectedTitle" = "中止";
+"Czs-q2-ZI9.segmentTitles[0]" = "モノラル";
+"Czs-q2-ZI9.segmentTitles[1]" = "ステレオ";
+"YKt-qD-ORT.segmentTitles[0]" = "M系列法";
+"YKt-qD-ORT.segmentTitles[1]" = "TSP法";
+"PWl-I6-2pa.normalTitle" = "自動ﾚﾍﾞﾙ調整";
+"jxV-cU-Ll5.normalTitle" = "自動再試行";
+"Qtq-3c-WE2.text" = "時刻";
+"3Hi-88-7JF.text" = "サンプリング";
+"frw-mY-3O7.text" = "測定時間";
+"EQ0-Ba-PoX.text" = "同期加算回数";
+"BTC-8Z-HtY.title" = "インパルス応答";
+"NXb-tN-OJz.normalTitle" = "音響分析";
+"DIq-Xc-1L8.normalTitle" = "ｲﾝﾊﾟﾙｽ応答";
+"CPS-1S-l8T.text" = "ｵﾌｾｯﾄ時間";
+"vYr-D5-Kdz.normalTitle" = "解除";
+"Qw2-EN-hiN.normalTitle" = "キャンセル";
+"Fmf-eQ-jPf.normalTitle" = "新規保存";
+"N3Z-PW-eyH.normalTitle" = "上書き保存";
+"LZM-eh-1Ba.normalTitle" = "削除";
+"Tq9-Lw-G6Q.text" = "テスト信号出力";
+"SWx-tT-2dQ.text" = "マイク情報";
+"Q7P-QC-oRh.text" = "マイクアンプ情報";
+"jsI-oY-A11.text" = "コメント";
+"SIf-4t-p29.text" = "入力レベル";
+"Y0r-F8-MDf.text" = "フィルタ特性";
+"GAK-z0-d44.text" = "周波数";
+"gm1-Af-Lir.text" = "レベル";
+"kj1-Jk-PdL.normalTitle" = "設定";
+"Sey-uK-4mf.normalTitle" = "削除";
+"N8t-8O-WUa.normalTitle" = "校正";
+"haz-I0-uPA.title" = "校正";
+"bID-98-qkV.title" = "設定";
+"fqx-ks-Clw.title" = "バージョン情報";
+"oyk-vn-Hb3.title" = "DSSF3 - 設定";
+"A2T-EQ-icb.title" = "録音・再生";
+"yiG-OQ-Daz.segmentTitles[0]" = "オフ";
+"yiG-OQ-Daz.segmentTitles[1]" = "録音";
+"yiG-OQ-Daz.segmentTitles[2]" = "再生";
+"U2X-gp-K8F.normalTitle" = "保存";
+"Cbt-ID-IAt.normalTitle" = "読み込み";
+"Y3G-RE-bH5.normalTitle" = "エクスポート";
+"J4F-r0-1Om.normalTitle" = "インポート";
+"TPh-Wf-Qzu.text" = "録音時間";
+"uoX-nZ-SRh.normalTitle" = "正規化";
+"wku-jy-dlD.normalTitle" = "切り取り";
+"Rvv-Hs-nLg.normalTitle" = "全選択";
+"LCo-F6-cPA.text" = "選択範囲";
+"HeL-IU-O5j.normalTitle" = "再生";
+"HeL-IU-O5j.selectedTitle" = "停止";
+"lBB-n6-ynv.title" = "ファイルリスト";
+"RaE-4g-7r1.text" = "左";
+"bT1-ZS-Ao8.text" = "右";
+"vI5-U1-IVU.normalTitle" = "比較";
+"Ecq-iX-hnx.normalTitle" = "消去";
+"BH2-ov-IOP.title" = "プリセット";
+"R3G-Ab-djb.title" = "プリセット";

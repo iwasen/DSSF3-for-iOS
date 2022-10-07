@@ -1,0 +1,164 @@
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "0kB-KV-J6b"; */
+"0kB-KV-J6b.text" = "コメント";
+
+/* Class = "UILabel"; text = "Rate of Noise Range"; ObjectID = "1EM-rZ-yuX"; */
+"1EM-rZ-yuX.text" = "ノイズ区間の割合";
+
+/* Class = "UILabel"; text = "End of Regression"; ObjectID = "3Se-em-BgZ"; */
+"3Se-em-BgZ.text" = "回帰計算終了レベル";
+
+/* Class = "UILabel"; text = "Channel"; ObjectID = "4Ag-24-QHM"; */
+"4Ag-24-QHM.text" = "チャネル";
+
+/* Class = "UILabel"; text = "Minimum delay time"; ObjectID = "4bV-lT-1f5"; */
+"4bV-lT-1f5.text" = "最短反射遅れ時間";
+
+/* Class = "UIViewController"; title = "Calculation"; ObjectID = "5nD-GJ-dMN"; */
+"5nD-GJ-dMN.title" = "計算";
+
+/* Class = "UIButton"; normalTitle = "A-weighing"; ObjectID = "7JM-xi-ruQ"; */
+"7JM-xi-ruQ.normalTitle" = "A特性";
+
+/* Class = "UITableViewController"; title = "Folder"; ObjectID = "7bK-jq-Zjz"; */
+"7bK-jq-Zjz.title" = "フォルダ";
+
+/* Class = "UILabel"; text = "Width for WIACC"; ObjectID = "ALd-gC-V5P"; */
+"ALd-gC-V5P.text" = "WIACC計算幅";
+
+/* Class = "UILabel"; text = "Rate of Noise Range"; ObjectID = "BUX-H3-MUl"; */
+"BUX-H3-MUl.text" = "ノイズ区間の割合";
+
+/* Class = "UILabel"; text = "Reference Level"; ObjectID = "BzV-3E-6pS"; */
+"BzV-3E-6pS.text" = "基準音圧";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "DJb-HB-FuO"; */
+"DJb-HB-FuO.normalTitle" = "計算開始";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "DXx-qY-3Co"; */
+"DXx-qY-3Co.text" = "日付";
+
+/* Class = "UISegmentedControl"; H7E-1X-kkB.segmentTitles[0] = "1 Oct."; ObjectID = "H7E-1X-kkB"; */
+"H7E-1X-kkB.segmentTitles[0]" = "1オクターブ";
+
+/* Class = "UISegmentedControl"; H7E-1X-kkB.segmentTitles[1] = "1/3 Oct."; ObjectID = "H7E-1X-kkB"; */
+"H7E-1X-kkB.segmentTitles[1]" = "1/3オクターブ";
+
+/* Class = "UILabel"; text = "Minimum delay time"; ObjectID = "I9v-W9-nyo"; */
+"I9v-W9-nyo.text" = "最短反射遅れ時間";
+
+/* Class = "UILabel"; text = "Optimum SPL"; ObjectID = "Lcn-Vw-1VW"; */
+"Lcn-Vw-1VW.text" = "最適音圧レベル";
+
+/* Class = "UILabel"; text = "Reference Level"; ObjectID = "NFg-nH-YpZ"; */
+"NFg-nH-YpZ.text" = "基準音圧";
+
+/* Class = "UILabel"; text = "Optimum SPL"; ObjectID = "NRf-K7-Owv"; */
+"NRf-K7-Owv.text" = "最適音圧レベル";
+
+/* Class = "UISegmentedControl"; P1i-Tc-7t7.segmentTitles[0] = "Impulse resp."; ObjectID = "P1i-Tc-7t7"; */
+"P1i-Tc-7t7.segmentTitles[0]" = "ｲﾝﾊﾟﾙｽ応答";
+
+/* Class = "UISegmentedControl"; P1i-Tc-7t7.segmentTitles[1] = "Reverberation"; ObjectID = "P1i-Tc-7t7"; */
+"P1i-Tc-7t7.segmentTitles[1]" = "残響特性";
+
+/* Class = "UISegmentedControl"; P1i-Tc-7t7.segmentTitles[2] = "Cross correlation"; ObjectID = "P1i-Tc-7t7"; */
+"P1i-Tc-7t7.segmentTitles[2]" = "相互相関";
+
+/* Class = "UISegmentedControl"; P1i-Tc-7t7.segmentTitles[3] = "Spectrum"; ObjectID = "P1i-Tc-7t7"; */
+"P1i-Tc-7t7.segmentTitles[3]" = "周波数特性";
+
+/* Class = "UISegmentedControl"; P1i-Tc-7t7.segmentTitles[4] = "Preference"; ObjectID = "P1i-Tc-7t7"; */
+"P1i-Tc-7t7.segmentTitles[4]" = "ﾌﾟﾘﾌｧﾚﾝｽ";
+
+/* Class = "UISegmentedControl"; P1i-Tc-7t7.segmentTitles[5] = "Parameters"; ObjectID = "P1i-Tc-7t7"; */
+"P1i-Tc-7t7.segmentTitles[5]" = "計算結果";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Prm-Cc-6hd"; */
+"Prm-Cc-6hd.text" = "名前";
+
+/* Class = "UILabel"; text = "Measure Time"; ObjectID = "TuS-sy-XMt"; */
+"TuS-sy-XMt.text" = "測定時間";
+
+/* Class = "UILabel"; text = "Reference Level"; ObjectID = "X73-RS-Yl3"; */
+"X73-RS-Yl3.text" = "基準音圧";
+
+/* Class = "UINavigationItem"; title = "Folder"; ObjectID = "Zdf-7t-Un8"; */
+"Zdf-7t-Un8.title" = "フォルダ";
+
+/* Class = "UILabel"; text = "Reference Data"; ObjectID = "aXD-d5-AVu"; */
+"aXD-d5-AVu.text" = "基準データ";
+
+/* Class = "UILabel"; text = "Width for WIACC"; ObjectID = "ajk-NB-Ot3"; */
+"ajk-NB-Ot3.text" = "WIACC計算幅";
+
+/* Class = "UISegmentedControl"; akE-JZ-Zfh.segmentTitles[0] = "non Calculation"; ObjectID = "akE-JZ-Zfh"; */
+"akE-JZ-Zfh.segmentTitles[0]" = "未計算データ";
+
+/* Class = "UISegmentedControl"; akE-JZ-Zfh.segmentTitles[1] = "All Data"; ObjectID = "akE-JZ-Zfh"; */
+"akE-JZ-Zfh.segmentTitles[1]" = "全データ";
+
+/* Class = "UILabel"; text = "Place"; ObjectID = "dP5-IC-cq2"; */
+"dP5-IC-cq2.text" = "場所";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ehy-me-N87"; */
+"ehy-me-N87.text" = "タイトル";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "fSA-XT-BKH"; */
+"fSA-XT-BKH.text" = "日付";
+
+/* Class = "UIBarButtonItem"; title = "Information"; ObjectID = "fqm-6E-P5y"; */
+"fqm-6E-P5y.title" = "情報表示";
+
+/* Class = "UILabel"; text = "Scale"; ObjectID = "hJY-qy-cv8"; */
+"hJY-qy-cv8.text" = "スケール";
+
+/* Class = "UILabel"; text = "Reference Data"; ObjectID = "hKV-s0-ZuK"; */
+"hKV-s0-ZuK.text" = "基準データ";
+
+/* Class = "UIButton"; normalTitle = "A-weighing"; ObjectID = "hnq-qn-sRc"; */
+"hnq-qn-sRc.normalTitle" = "A特性";
+
+/* Class = "UIViewController"; title = "Information"; ObjectID = "j1y-d7-6z4"; */
+"j1y-d7-6z4.title" = "情報";
+
+/* Class = "UIButton"; normalTitle = "Auto"; ObjectID = "kPR-zS-lym"; */
+"kPR-zS-lym.normalTitle" = "自動設定";
+
+/* Class = "UITableViewController"; title = "Data"; ObjectID = "lP2-bZ-eRF"; */
+"lP2-bZ-eRF.title" = "日付";
+
+/* Class = "UILabel"; text = "End of Regression"; ObjectID = "lp4-yL-yEc"; */
+"lp4-yL-yEc.text" = "回帰計算終了レベル";
+
+/* Class = "UISegmentedControl"; mrl-h1-3Cm.segmentTitles[0] = "1 Oct."; ObjectID = "mrl-h1-3Cm"; */
+"mrl-h1-3Cm.segmentTitles[0]" = "1オクターブ";
+
+/* Class = "UISegmentedControl"; mrl-h1-3Cm.segmentTitles[1] = "1/3 Oct."; ObjectID = "mrl-h1-3Cm"; */
+"mrl-h1-3Cm.segmentTitles[1]" = "1/3オクターブ";
+
+/* Class = "UIViewController"; title = "Graph"; ObjectID = "nsJ-e0-xfO"; */
+"nsJ-e0-xfO.title" = "グラフ";
+
+/* Class = "UINavigationItem"; title = "Data"; ObjectID = "oJb-Ov-hsy"; */
+"oJb-Ov-hsy.title" = "日付";
+
+/* Class = "UILabel"; text = "Summation"; ObjectID = "q0e-3s-agO"; */
+"q0e-3s-agO.text" = "同期加算回数";
+
+/* Class = "UILabel"; text = "Reference Level"; ObjectID = "vFM-D2-0O1"; */
+"vFM-D2-0O1.text" = "基準音圧";
+
+/* Class = "UIButton"; normalTitle = "Auto"; ObjectID = "wXf-0S-WAR"; */
+"wXf-0S-WAR.normalTitle" = "自動設定";
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "wfy-AX-N0e"; */
+"wfy-AX-N0e.text" = "コメント";
+
+/* Class = "UILabel"; text = "Sampling Rate"; ObjectID = "x04-Sf-6Ph"; */
+"x04-Sf-6Ph.text" = "サンプリング";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "zZA-q1-UYG"; */
+"zZA-q1-UYG.text" = "タイトル";
+
+"SUs-D3-aHB.normalTitle" = "CSV出力";

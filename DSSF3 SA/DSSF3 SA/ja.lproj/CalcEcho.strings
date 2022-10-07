@@ -1,0 +1,21 @@
+
+/* Class = "UINavigationItem"; title = "Tsub Recalculation"; ObjectID = "1bk-eT-4d9"; */
+"1bk-eT-4d9.title" = "Tsub Recalculation";
+
+/* Class = "UILabel"; text = "Rate of Noise Range"; ObjectID = "9S7-vz-DAp"; */
+"9S7-vz-DAp.text" = "Rate of Noise Range";
+
+/* Class = "UILabel"; text = "dB"; ObjectID = "LiE-DS-JWv"; */
+"LiE-DS-JWv.text" = "dB";
+
+/* Class = "UIButton"; normalTitle = "Auto"; ObjectID = "T1N-yh-lcH"; */
+"T1N-yh-lcH.normalTitle" = "Auto";
+
+/* Class = "UIBarButtonItem"; title = "OK"; ObjectID = "qhS-Tc-Qvf"; */
+"qhS-Tc-Qvf.title" = "OK";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "rjd-CT-9mJ"; */
+"rjd-CT-9mJ.text" = "%";
+
+/* Class = "UILabel"; text = "End of Regression"; ObjectID = "z67-GC-Wwv"; */
+"z67-GC-Wwv.text" = "End of Regression";

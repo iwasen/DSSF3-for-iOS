@@ -1,0 +1,168 @@
+/*
+ SA
+ */
+"IDS_ABSVALUE" = "絶対値";
+"IDS_MAXVALUE" = "最大値";
+"IDS_CALCULATING" = "音響パラメータ計算中";
+"IDS_IR" = "インパルス応答";
+"IDS_LEFTIR" = "左チャネルインパルス応答";
+"IDS_RIGHTIR" = "右チャネルインパルス応答";
+"IDS_CCF2" = "相互相関値";
+"IDS_TAB_IR" = "インパルス応答";
+"IDS_TAB_REVERBERATION" = "残響特性";
+"IDS_TAB_CCF" = "相互相関";
+"IDS_TAB_SPECTRUM" = "周波数特性";
+"IDS_TAB_PREFERENCE" = "プリファレンス";
+"IDS_TAB_PARAMETERS" = "計算結果";
+"IDS_LRAVERAGE" = "両チャネル平均";
+"IDS_TAUEPREF" = "τe−プリファレンス値曲線";
+"IDS_OPTIMUMTAUE" = "最適τe";
+"IDS_CALC" = "計算";
+"IDS_REVLEVEL" = "残響レベル";
+"IDS_WITHOUTNOISE" = "ノイズ補正なし";
+"IDS_WITHNOISE" = "ノイズ補正あり";
+"IDS_REGRESSIONLINE" = "回帰直線";
+"IDS_NAME" = "名前";
+"IDS_PLACE" = "場所";
+"IDS_SCALE" = "スケール";
+"IDS_ECHOTIMEPATTERN" = "エコータイムパターン";
+"IDS_DECAYCURVE" = "残響エネルギー曲線";
+"IDS_SCHROEDER" = "シュレーダー積分残響曲線";
+"IDS_SPECTRUM" = "周波数特性";
+"IDS_LEFTCHANNEL" = "左チャネル";
+"IDS_RIGHTCHANNEL" = "右チャネル";
+"IDS_CCF" = "相互相関関数";
+"IDS_MSG_TAUE" = "τe は正の数値を入力してください。";
+"IDS_MSG_SELECTDATA" = "データを選択してください。";
+"IDS_MSG_SELECTFOLDER" = "フォルダを選択してください。";
+"IDS_MSG_SAVECALC" = "計算結果を保存しますか？";
+"IDS_ERR_READDATA" = "測定データの読み込みに失敗しました。";
+"IDS_MSG_DELETESELECTDATA" = "選択されたデータを削除します。よろしいですか？";
+"IDS_MAXPREF" = "最大プリファレンス値";
+"IDS_PREFVALUE" = "プリファレンス値";
+"IDS_DT1LR" = "Δt1-LR";
+"IDS_DT1L" = "Δt1-L";
+"IDS_DT1R" = "Δt1-R";
+"IDS_DT1" = "Δt1";
+"IDS_TYPE" = "種類";
+"IDS_TYPE_IR" = "インパルス応答";
+"IDS_TYPE_ACF" = "ACF測定";
+"IDS_FOLDER" = "フォルダ";
+"IDS_DATA" = "データ";
+/*
+ common
+ */
+"IDS_FREQUENCY" = "周波数";
+"IDS_SPL" = "音圧レベル";
+"IDS_TIME" = "時間";
+"IDS_AMPLITUDE" = "振幅";
+"IDS_FREQRESP" = "周波数特性";
+"IDS_PHASE" = "位相特性";
+"IDS_DIRECTSOUND" = "直接音";
+"IDS_FIRSTREFLECTION" = "第１反射音";
+"IDS_TAU" = "τ";
+"IDS_TAUE" = "τe";
+"IDS_NONE" = "無し";
+"IDS_MSG_DELETEFOLDER" = "指定されたフォルダを削除します。ここに含まれるデータも全て削除されますがよろしいですか？";
+"IDS_ERR_CREATEFOLDER" = "フォルダ管理ファイルの作成に失敗しました。";
+"IDS_ERR_OPENFOLDER" = "フォルダ管理ファイルのオープンに失敗しました。";
+"IDS_ERR_CONVERFOLDER" = "フォルダ管理ファイルの変換に失敗しました。";
+"IDS_ERR_CREATEFOLDERINDEX" = "フォルダ管理インデックスファイルの作成に失敗しました。";
+"IDS_ERR_READFOLDER" = "フォルダ管理ファイルの読み込みに失敗しました。";
+"IDS_ERR_WRITEFOLDER" = "フォルダ管理ファイルの書き込みに失敗しました。";
+"IDS_ERR_CREATEIRFILE" = "インパルス応答ファイルの作成に失敗しました。";
+"IDS_ERR_OPENIRFILE" = "インパルス応答ファイルのオープンに失敗しました。";
+"IDS_ERR_CONVERTIRFILE" = "インパルス応答ファイルの変換に失敗しました。";
+"IDS_ERR_READIRFILE" = "インパルス応答ファイルの読み込みに失敗しました。";
+"IDS_ERR_WRITEIRFILE" = "インパルス応答ファイルの書き込みに失敗しました。";
+"IDS_ERR_CREATECALCFILE" = "計算結果ファイルの作成に失敗しました。";
+"IDS_ERR_OPENCALCFILE" = "計算結果ファイルのオープンに失敗しました。";
+"IDS_ERR_CREATECALCINDEX" = "計算結果インデックスファイルの作成に失敗しました。";
+"IDS_ERR_READCALCFILE" = "計算結果ファイルの読み込みに失敗しました。";
+"IDS_ERR_FINDCALCFILE" = "計算結果ファイルの検索に失敗しました。";
+"IDS_ERR_WRITECALCFILE" = "計算結果ファイルの書き込みに失敗しました。";
+/*
+"IDS_ERR_CREATEIFFILE" = "逆フィルタ管理ファイルの作成に失敗しました。";
+"IDS_ERR_OPENIFFILE" = "逆フィルタ管理ファイルのオープンに失敗しました。";
+"IDS_ERR_CREATEIFINDEX" = "逆フィルタ管理インデックスファイルの作成に失敗しました。";
+"IDS_ERR_READIFFILE" = "逆フィルタ管理ファイルの読み込みに失敗しました。";
+"IDS_ERR_WRITEIFFILE" = "逆フィルタ管理ファイルの書き込みに失敗しました。";
+"IDS_ERR_DELETEIFFILE" = "逆フィルタ管理ファイルの削除に失敗しました。";
+"IDS_ERR_CREATEMICCAL" = "マイク校正情報の作成に失敗しました。";
+"IDS_ERR_OPENMICCAL" = "マイク校正情報ファイルのオープンに失敗しました。";
+"IDS_ERR_CONVERTMICCAL" = "マイク校正情報ファイルの変換に失敗しました。";
+"IDS_ERR_CREATEMICCALINDEX" = "マイク校正情報インデックスファイルの作成に失敗しました。";
+"IDS_ERR_READMICCAL" = "マイク校正情報ファイルの読み込みに失敗しました。";
+"IDS_ERR_WRITEMICCAL" = "マイク校正情報ファイルの書き込みに失敗しました。";
+"IDS_ERR_DELETEMICCAL" = "マイク校正情報データの削除に失敗しました。";
+ */
+"IDS_ERR_CREATEIRINDEX1" = "インパルス応答インデックスファイル１の作成に失敗しました。";
+"IDS_ERR_CREATEIRINDEX2" = "インパルス応答インデックスファイル２の作成に失敗しました。";
+"IDS_ERR_DELETEIRDATA" = "インパルス応答データの削除に失敗しました。";
+"IDS_ERR_FINDFOLDER" = "フォルダがみつかりません。";
+"IDS_ERR_DELETEFOLDER" = "フォルダの削除に失敗しました。";
+/*
+"IDS_ERR_CREATEACFFILE" = "ＡＣＦ測定ファイルの作成に失敗しました。";
+"IDS_ERR_OPENACFFILE" = "ＡＣＦ測定ファイルのオープンに失敗しました。";
+"IDS_ERR_CONVERTACFFILE" = "ＡＣＦ測定ファイルの変換に失敗しました。";
+"IDS_ERR_READACFFILE" = "ＡＣＦ測定ファイルの読み込みに失敗しました。";
+"IDS_ERR_WRITEACFFILE" = "ＡＣＦ測定ファイルの書き込みに失敗しました。";
+"IDS_ERR_CREATEACFINDEX1" = "ＡＣＦ測定インデックスファイル１の作成に失敗しました。";
+"IDS_ERR_CREATEACFINDEX2" = "ＡＣＦ測定インデックスファイル２の作成に失敗しました。";
+ */
+"IDS_NUMBER" = "No.";
+"IDS_TAU1" = "τ1";
+"IDS_PHI0" = "Φ(0)";
+"IDS_PHI1" = "φ1";
+"IDS_TIACC" = "τIACC";
+"IDS_PHI_TAU" = "φ(τ)";
+"IDS_TAU2" = "τ2";
+"IDS_TAU3" = "τ3";
+"IDS_TAU4" = "τ4";
+"IDS_TAU5" = "τ5";
+"IDS_TAU6" = "τ6";
+"IDS_TAU7" = "τ7";
+"IDS_TAU8" = "τ8";
+"IDS_TAU9" = "τ9";
+"IDS_TAU10" = "τ10";
+"IDS_PHI2" = "φ2";
+"IDS_PHI3" = "φ3";
+"IDS_PHI4" = "φ4";
+"IDS_PHI5" = "φ5";
+"IDS_PHI6" = "φ6";
+"IDS_PHI7" = "φ7";
+"IDS_PHI8" = "φ8";
+"IDS_PHI9" = "φ9";
+"IDS_PHI10" = "φ10";
+"IDS_LEVEL" = "レベル";
+/*
+"IDS_ERR_CREATEWAVEFORM" = "波形データファイルの作成に失敗しました。";
+"IDS_ERR_OPENWAVEFORM" = "波形データファイルのオープンに失敗しました。";
+"IDS_ERR_CREATEWAVEFORMINDEX" = "波形データインデックスファイルの作成に失敗しました。";
+"IDS_ERR_READWAVEFORM" = "波形データファイルの読み込みに失敗しました。";
+"IDS_ERR_WRITEWAVEFORM" = "波形データファイルの書き込みに失敗しました。";
+*/
+/*
+ 新規
+ */
+"IDS_DSSF3_TITLE" = "DSSF3 音響アナライザ";
+"IDS_BACK" = "戻る";
+"IDS_CALC_END" = "計算完了";
+"IDS_YES" = "はい";
+"IDS_NO" = "いいえ";
+"IDS_CONFIRMATION" = "確認";
+/*
+ GroupBox
+ */
+"Target Data" = "計算対象データ";
+"Frequency band" = "周波数分割";
+"Sound strength [G]" = "音圧レベル [G]";
+"Preference" = "プリファレンス";
+"Reverberation time" = "残響時間";
+"Folder Information" = "フォルダ情報";
+"Measurement Conditions" = "測定条件";
+"Calculation Conditions" = "計算条件";
+"Acoustic Parameters" = "計算結果";
+"Show Parameter 1" = "表示パラメータ1";
+"Show Parameter 2" = "表示パラメータ2";
+

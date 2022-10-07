@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  DSSF3
+//
+//  Created by 相沢伸一 on 2015/04/21.
+//  Copyright (c) 2015年 YMEC. All rights reserved.
+//
+
+#ifndef DSSF3_PrefixHeader_pch
+#define DSSF3_PrefixHeader_pch
+
+#ifdef DEBUG
+#define DLog(fmt, ...) NSLog((@"%s [Line %d] " fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__);
+#else
+#define DLog(...)
+#endif
+
+#endif

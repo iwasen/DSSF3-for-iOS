@@ -1,0 +1,63 @@
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "332-yH-KEp"; */
+"332-yH-KEp.normalTitle" = "再計算";
+
+/* Class = "UIButton"; normalTitle = "Replay"; ObjectID = "3oe-VS-bIz"; */
+"3oe-VS-bIz.normalTitle" = "再生";
+
+/* Class = "UILabel"; text = "L-Reflection"; ObjectID = "AtU-Zj-38C"; */
+"AtU-Zj-38C.text" = "左初期反射音";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "DqG-eS-SFx"; */
+"DqG-eS-SFx.text" = "左";
+
+/* Class = "UILabel"; text = "Optimum SPL"; ObjectID = "EmW-d6-oFB"; */
+"EmW-d6-oFB.text" = "最適音圧レベル";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "MTU-RU-SJk"; */
+"MTU-RU-SJk.text" = "右";
+
+/* Class = "UIButton"; normalTitle = "Change WIACC"; ObjectID = "OKd-3p-ReG"; */
+"OKd-3p-ReG.normalTitle" = "WIACC計算幅変更";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "Rdm-wU-mxm"; */
+"Rdm-wU-mxm.text" = "右";
+
+/* Class = "UILabel"; text = "Optimum τe"; ObjectID = "TjJ-BC-oPX"; */
+"TjJ-BC-oPX.text" = "最適τe";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "TrO-AL-4Tj"; */
+"TrO-AL-4Tj.normalTitle" = "再計算";
+
+/* Class = "UISegmentedControl"; but-BT-HZS.segmentTitles[1] = "A-value"; ObjectID = "but-BT-HZS"; */
+"but-BT-HZS.segmentTitles[1]" = "A値";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "fXD-ER-yRB"; */
+"fXD-ER-yRB.text" = "左";
+
+/* Class = "UILabel"; text = "R-Direct"; ObjectID = "gtl-1b-39F"; */
+"gtl-1b-39F.text" = "右直接音";
+
+/* Class = "UILabel"; text = "L-Direct"; ObjectID = "j7Q-xv-cng"; */
+"j7Q-xv-cng.text" = "左直接音";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "nqP-f8-Gpf"; */
+"nqP-f8-Gpf.text" = "右";
+
+/* Class = "UILabel"; text = "R-Reflection"; ObjectID = "oIs-En-cYk"; */
+"oIs-En-cYk.text" = "右初期反射音";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "r5Y-ES-cJW"; */
+"r5Y-ES-cJW.text" = "左";
+
+/* Class = "UILabel"; text = "L"; ObjectID = "tBy-zP-IFs"; */
+"tBy-zP-IFs.text" = "左";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "tHF-ps-zgU"; */
+"tHF-ps-zgU.normalTitle" = "再計算";
+
+/* Class = "UIButton"; normalTitle = "Smoothing"; ObjectID = "tQq-aX-eQs"; */
+"tQq-aX-eQs.normalTitle" = "平均化";
+
+/* Class = "UILabel"; text = "R"; ObjectID = "zqC-Jp-1mC"; */
+"zqC-Jp-1mC.text" = "右";

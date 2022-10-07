@@ -1,0 +1,154 @@
+/*
+ SA
+ */
+"IDS_ABSVALUE" = "Absolute value";
+"IDS_MAXVALUE" = "Maximum value";
+"IDS_EXPIRE" = "Expires license limit. Contact your dealer.";
+"IDS_CALCULATING" = "Calculating the acoustic parameters.";
+"IDS_IR" = "Impulse Response";
+"IDS_LEFTIR" = "Lch Impulse Response";
+"IDS_RIGHTIR" = "Rch Impulse Response";
+"IDS_CCF2" = "CCF";
+"IDS_TAB_IR" = "Impulse response";
+"IDS_TAB_REVERBERATION" = "Reverberation";
+"IDS_TAB_CCF" = "Cross correlation";
+"IDS_TAB_SPECTRUM" = "Spectrum";
+"IDS_TAB_PREFERENCE" = "Preference";
+"IDS_TAB_PARAMETERS" = "Parameters";
+"IDS_LRAVERAGE" = "Lch/Rch Average";
+"IDS_TAUEPREF" = "τe - Preference";
+"IDS_OPTIMUMTAUE" = "Optimum τe";
+"IDS_CALC" = "Calculation";
+"IDS_REVLEVEL" = "Rev. Level";
+"IDS_WITHOUTNOISE" = "Without Noise Correction";
+"IDS_WITHNOISE" = "With Noise Correction";
+"IDS_REGRESSIONLINE" = "Regression Line";
+"IDS_NAME" = "Name";
+"IDS_PLACE" = "Place";
+"IDS_SCALE" = "Scale";
+"IDS_ECHOTIMEPATTERN" = "Echo Time Pattern";
+"IDS_DECAYCURVE" = "Decay Curve";
+"IDS_SCHROEDER" = "Schroeder Integtation";
+"IDS_SPECTRUM" = "Spectrum";
+"IDS_LEFTCHANNEL" = "Left channel";
+"IDS_RIGHTCHANNEL" = "Right channel";
+"IDS_CCF" = "Cross Correlation Func.";
+"IDS_MSG_TAUE" = "τe must be positive number.";
+"IDS_MSG_SELECTDATA" = "Select the data.";
+"IDS_MSG_SELECTFOLDER" = "Select the folder.";
+"IDS_MSG_SAVECALC" = "Save calculation output?";
+"IDS_ERR_READDATA" = "Can't read measured data.";
+"IDS_MSG_DELETESELECTDATA" = "Delete selected data. Are you sure?";
+"IDS_MAXPREF" = "Maximum SV";
+"IDS_PREFVALUE" = "Preference";
+"IDS_DT1LR" = "Δt1-LR";
+"IDS_DT1L" = "Δt1-L";
+"IDS_DT1R" = "Δt1-R";
+"IDS_DT1" = "Δt1";
+"IDS_TYPE" = "Type";
+"IDS_TYPE_IR" = "Impulse Response";
+"IDS_TYPE_ACF" = "Running ACF";
+"IDS_FOLDER" = "Folder";
+"IDS_DATA" = "Data";
+/*
+ common
+ */
+"IDS_FREQUENCY" = "Frequency";
+"IDS_SPL" = "SPL";
+"IDS_TIME" = "Time";
+"IDS_AMPLITUDE" = "Amplitude";
+"IDS_FREQRESP" = "Frequency Response";
+"IDS_PHASE" = "Phase";
+"IDS_DIRECTSOUND" = "Direct Sound";
+"IDS_FIRSTREFLECTION" = "First Reflection";
+"IDS_TAU" = "τ";
+"IDS_TAUE" = "τe";
+"IDS_NONE" = "None";
+"IDS_MSG_DELETEFOLDER" = "Delete selected folder with all data in. Are you sure?";
+"IDS_ERR_CREATEFOLDER" = "Can't create folder.";
+"IDS_ERR_OPENFOLDER" = "Can't open folder.";
+"IDS_ERR_CONVERFOLDER" = "Can't convert folder.";
+"IDS_ERR_CREATEFOLDERINDEX" = "Can't create folder index file.";
+"IDS_ERR_READFOLDER" = "Can't read folder.";
+"IDS_ERR_WRITEFOLDER" = "Can't write folder.";
+"IDS_ERR_CREATEIRFILE" = "Can't create impulse response file.";
+"IDS_ERR_OPENIRFILE" = "Can't open impulse response file.";
+"IDS_ERR_CONVERTIRFILE" = "Can't convert impulse response file.";
+"IDS_ERR_READIRFILE" = "Can't read impulse response file.";
+"IDS_ERR_WRITEIRFILE" = "Can't write impulse response file.";
+"IDS_ERR_CREATECALCFILE" = "Can't create calculation file.";
+"IDS_ERR_OPENCALCFILE" = "Can't open calclation file.";
+"IDS_ERR_CREATECALCINDEX" = "Can't create calculation index file.";
+"IDS_ERR_READCALCFILE" = "Can't read calculation file.";
+"IDS_ERR_FINDCALCFILE" = "Can't find calculation file.";
+"IDS_ERR_WRITECALCFILE" = "Can't write calculation file.";
+/*
+"IDS_ERR_CREATEIFFILE" = "Can't create inverse filter file.";
+"IDS_ERR_OPENIFFILE" = "Can't open inverse filter file.";
+"IDS_ERR_CREATEIFINDEX" = "Can't create inverse filter index file.";
+"IDS_ERR_READIFFILE" = "Can't read inverse filter file.";
+"IDS_ERR_WRITEIFFILE" = "Can't write inverse filter file.";
+"IDS_ERR_DELETEIFFILE" = "Can't delete inverse filter file.";
+"IDS_ERR_CREATEMICCAL" = "Can't create microphone caliblation file.";
+"IDS_ERR_OPENMICCAL" = "Can't open microphone caliblation file.";
+"IDS_ERR_CONVERTMICCAL" = "Can't convert microphone caliblation file.";
+"IDS_ERR_CREATEMICCALINDEX" = "Can't create microphone caliblation index file.";
+"IDS_ERR_READMICCAL" = "Can't read microphone caliblation file.";
+"IDS_ERR_WRITEMICCAL" = "Can't write microphone caliblation file.";
+"IDS_ERR_DELETEMICCAL" = "Can't delete microphone caliblation file.";
+ */
+"IDS_ERR_CREATEIRINDEX1" = "Can't create impulse response index file 1.";
+"IDS_ERR_CREATEIRINDEX2" = "Can't create impulse response index file 2.";
+"IDS_ERR_DELETEIRDATA" = "Can't delete impulse response data.";
+"IDS_ERR_FINDFOLDER" = "Can't find folder.";
+"IDS_ERR_DELETEFOLDER" = "Can't delete folder.";
+/*
+"IDS_ERR_CREATEACFFILE" = "Can't create running ACF file.";
+"IDS_ERR_OPENACFFILE" = "Can't open running ACF file.";
+"IDS_ERR_CONVERTACFFILE" = "Can't convert running ACF file.";
+"IDS_ERR_READACFFILE" = "Can't read running ACF file.";
+"IDS_ERR_WRITEACFFILE" = "Can't write running ACF file.";
+"IDS_ERR_CREATEACFINDEX1" = "Can't create running ACF index file 1.";
+"IDS_ERR_CREATEACFINDEX2" = "Can't create running ACF index file 2.";
+ */
+"IDS_NUMBER" = "No.";
+"IDS_TAU1" = "τ1";
+"IDS_PHI0" = "Φ(0)";
+"IDS_PHI1" = "φ1";
+"IDS_TIACC" = "τIACC";
+"IDS_PHI_TAU" = "φ(τ)";
+"IDS_TAU2" = "τ2";
+"IDS_TAU3" = "τ3";
+"IDS_TAU4" = "τ4";
+"IDS_TAU5" = "τ5";
+"IDS_TAU6" = "τ6";
+"IDS_TAU7" = "τ7";
+"IDS_TAU8" = "τ8";
+"IDS_TAU9" = "τ9";
+"IDS_TAU10" = "τ10";
+"IDS_PHI2" = "φ2";
+"IDS_PHI3" = "φ3";
+"IDS_PHI4" = "φ4";
+"IDS_PHI5" = "φ5";
+"IDS_PHI6" = "φ6";
+"IDS_PHI7" = "φ7";
+"IDS_PHI8" = "φ8";
+"IDS_PHI9" = "φ9";
+"IDS_PHI10" = "φ10";
+"IDS_LEVEL" = "Level";
+/*
+"IDS_ERR_CREATEWAVEFORM" = "Can't create waveform file.";
+"IDS_ERR_OPENWAVEFORM" = "Can't open waveform file.";
+"IDS_ERR_CREATEWAVEFORMINDEX" = "Can't create waveform index file.";
+"IDS_ERR_READWAVEFORM" = "Can't read waveform file.";
+"IDS_ERR_WRITEWAVEFORM" = "Can't write waveform file.";
+ */
+/*
+ 新規
+ */
+"IDS_DSSF3_TITLE" = "DSSF3 Sound Analyzer";
+"IDS_BACK" = "Back";
+"IDS_CALC_END" = "completed";
+"IDS_YES" = "Yes";
+"IDS_NO" = "No";
+"IDS_CONFIRMATION" = "Confirmation";

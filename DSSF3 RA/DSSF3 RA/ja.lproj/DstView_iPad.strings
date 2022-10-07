@@ -1,0 +1,117 @@
+
+/* Class = "UILabel"; text = "%"; ObjectID = "3b2-EW-vkq"; */
+"3b2-EW-vkq.text" = "%";
+
+/* Class = "UILabel"; text = "dB"; ObjectID = "6WP-YY-Gth"; */
+"6WP-YY-Gth.text" = "dB";
+
+/* Class = "UILabel"; text = "Hz"; ObjectID = "7cg-qd-tRN"; */
+"7cg-qd-tRN.text" = "Hz";
+
+/* Class = "UILabel"; text = "dB"; ObjectID = "93f-T8-UJl"; */
+"93f-T8-UJl.text" = "dB";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "Aam-gM-J2I"; */
+"Aam-gM-J2I.text" = "-";
+
+/* Class = "UILabel"; text = "Point"; ObjectID = "CV4-7G-YyL"; */
+"CV4-7G-YyL.text" = "測定点数";
+
+/* Class = "UIButton"; normalTitle = "Averaging"; ObjectID = "DOM-J4-nMt"; */
+"DOM-J4-nMt.normalTitle" = "平均化";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "E2j-Kl-Qto"; */
+"E2j-Kl-Qto.text" = "%";
+
+/* Class = "UILabel"; text = "End"; ObjectID = "Ell-8m-oGM"; */
+"Ell-8m-oGM.text" = "終了";
+
+/* Class = "UILabel"; text = "dB"; ObjectID = "GmF-uq-rrZ"; */
+"GmF-uq-rrZ.text" = "dB";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "Hhq-N7-kJf"; */
+"Hhq-N7-kJf.text" = "-";
+
+/* Class = "UILabel"; text = "Freq."; ObjectID = "I1y-kZ-r3C"; */
+"I1y-kZ-r3C.text" = "周波数";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "I48-wb-ixq"; */
+"I48-wb-ixq.text" = "%";
+
+/* Class = "UIButton"; normalTitle = "Interpolation"; ObjectID = "L01-Y9-bQw"; */
+"L01-Y9-bQw.normalTitle" = "補間";
+
+/* Class = "UILabel"; text = "Begin"; ObjectID = "LjO-Yn-1gL"; */
+"LjO-Yn-1gL.text" = "開始";
+
+/* Class = "UILabel"; text = "Begin"; ObjectID = "Pnc-gt-Mpk"; */
+"Pnc-gt-Mpk.text" = "開始";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "QJK-UX-drk"; */
+"QJK-UX-drk.text" = "-";
+
+/* Class = "UILabel"; text = "Left"; ObjectID = "QTg-L6-hzH"; */
+"QTg-L6-hzH.text" = "左";
+
+/* Class = "UILabel"; text = "Level"; ObjectID = "TN1-1Y-NPm"; */
+"TN1-1Y-NPm.text" = "レベル";
+
+/* Class = "UILabel"; text = "Point"; ObjectID = "XXJ-Ru-GRg"; */
+"XXJ-Ru-GRg.text" = "測定点数";
+
+/* Class = "UILabel"; text = "Hz"; ObjectID = "Ydt-Qd-BwH"; */
+"Ydt-Qd-BwH.text" = "Hz";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "akg-zf-DFU"; */
+"akg-zf-DFU.text" = "%";
+
+/* Class = "UILabel"; text = "Left"; ObjectID = "bBe-hg-sgK"; */
+"bBe-hg-sgK.text" = "左";
+
+/* Class = "UILabel"; text = "Right"; ObjectID = "bOs-dH-qnT"; */
+"bOs-dH-qnT.text" = "右";
+
+/* Class = "UILabel"; text = "dB"; ObjectID = "d7S-eH-fbn"; */
+"d7S-eH-fbn.text" = "dB";
+
+/* Class = "UILabel"; text = "End"; ObjectID = "ehj-qy-VTW"; */
+"ehj-qy-VTW.text" = "終了";
+
+/* Class = "UIButton"; normalTitle = "Marker"; ObjectID = "fng-7S-QCq"; */
+"fng-7S-QCq.normalTitle" = "マーカー";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "gsf-OQ-10V"; */
+"gsf-OQ-10V.text" = "-";
+
+/* Class = "UIButton"; normalTitle = "Interpolation"; ObjectID = "irr-mr-V6p"; */
+"irr-mr-V6p.normalTitle" = "補間";
+
+/* Class = "UILabel"; text = "Right"; ObjectID = "jTP-EG-Lhx"; */
+"jTP-EG-Lhx.text" = "右";
+
+/* Class = "UIButton"; normalTitle = "Marker"; ObjectID = "ja6-Ro-zdu"; */
+"ja6-Ro-zdu.normalTitle" = "マーカー";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "lNa-Sj-Svb"; */
+"lNa-Sj-Svb.text" = "%";
+
+/* Class = "UILabel"; text = "Hz"; ObjectID = "lxa-Ot-wEh"; */
+"lxa-Ot-wEh.text" = "Hz";
+
+/* Class = "UILabel"; text = "Left"; ObjectID = "pMo-LX-Ff0"; */
+"pMo-LX-Ff0.text" = "左";
+
+/* Class = "UILabel"; text = "Hz"; ObjectID = "qqz-cM-ssb"; */
+"qqz-cM-ssb.text" = "Hz";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "s3Q-hc-FsP"; */
+"s3Q-hc-FsP.text" = "%";
+
+/* Class = "UILabel"; text = "Hz"; ObjectID = "xVo-hj-R3j"; */
+"xVo-hj-R3j.text" = "Hz";
+
+/* Class = "UILabel"; text = "dB"; ObjectID = "xtX-Tr-8mM"; */
+"xtX-Tr-8mM.text" = "dB";
+
+/* Class = "UILabel"; text = "Right"; ObjectID = "zc6-nS-p3k"; */
+"zc6-nS-p3k.text" = "右";

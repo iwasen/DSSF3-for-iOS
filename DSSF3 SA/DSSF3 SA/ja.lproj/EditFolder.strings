@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "Comment"; ObjectID = "Gal-Sb-FlN"; */
+"Gal-Sb-FlN.text" = "Comment";
+
+/* Class = "UINavigationItem"; title = "Folder Information"; ObjectID = "Siw-b6-v5w"; */
+"Siw-b6-v5w.title" = "Folder Information";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "SxW-5y-5GL"; */
+"SxW-5y-5GL.text" = "Title";
+
+/* Class = "UILabel"; text = "[1/n]"; ObjectID = "THb-Sz-HRP"; */
+"THb-Sz-HRP.text" = "[1/n]";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "lRd-Xf-5ax"; */
+"lRd-Xf-5ax.text" = "Name";
+
+/* Class = "UILabel"; text = "Scale"; ObjectID = "tj4-xe-pyM"; */
+"tj4-xe-pyM.text" = "Scale";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "vsu-yD-YqN"; */
+"vsu-yD-YqN.text" = "Date";
+
+/* Class = "UILabel"; text = "Place"; ObjectID = "yXt-7c-JGM"; */
+"yXt-7c-JGM.text" = "Place";
