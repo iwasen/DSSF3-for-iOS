@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		0410FBC91E038CCA00F3BC4A /* FreqView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0410FBC81E038CCA00F3BC4A /* FreqView.mm */; };
-		041D21BF22CDCE210021BC56 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 041D21BE22CDCE200021BC56 /* LaunchScreen.storyboard */; };
 		042737F41DFBD350004C296A /* SampleEng in Resources */ = {isa = PBXBuildFile; fileRef = 042737F31DFBD350004C296A /* SampleEng */; };
 		047D40F21E23832E00ED7BF6 /* AudioOutput.mm in Sources */ = {isa = PBXBuildFile; fileRef = 047D40F11E23832E00ED7BF6 /* AudioOutput.mm */; };
 		048A92AC22D88929003B07FE /* Graph_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 048A92AA22D88929003B07FE /* Graph_iPhone.xib */; };
@@ -135,7 +134,6 @@
 /* Begin PBXFileReference section */
 		0410FBC71E038CCA00F3BC4A /* FreqView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FreqView.h; path = "../../DSSF3 Common/FreqView.h"; sourceTree = "<group>"; };
 		0410FBC81E038CCA00F3BC4A /* FreqView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = FreqView.mm; path = "../../DSSF3 Common/FreqView.mm"; sourceTree = "<group>"; };
-		041D21BE22CDCE200021BC56 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "../DSSF3 Common/LaunchScreen.storyboard"; sourceTree = "<group>"; };
 		042737F31DFBD350004C296A /* SampleEng */ = {isa = PBXFileReference; lastKnownFileType = folder; name = SampleEng; path = "DSSF3 SA/SampleEng"; sourceTree = "<group>"; };
 		047D40EF1E23832E00ED7BF6 /* AudioCommon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AudioCommon.h; path = "../../DSSF3 Common/AudioCommon.h"; sourceTree = "<group>"; };
 		047D40F01E23832E00ED7BF6 /* AudioOutput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AudioOutput.h; path = "../../DSSF3 Common/AudioOutput.h"; sourceTree = "<group>"; };
@@ -357,7 +355,6 @@
 		04B3CFD61DFA91460002F771 = {
 			isa = PBXGroup;
 			children = (
-				041D21BE22CDCE200021BC56 /* LaunchScreen.storyboard */,
 				042737F31DFBD350004C296A /* SampleEng */,
 				04B3CFE11DFA91460002F771 /* DSSF3 SA */,
 				04B3CFE01DFA91460002F771 /* Products */,
@@ -807,7 +804,6 @@
 				04B3D1D31DFAB3F30002F771 /* CheckOn.png in Resources */,
 				04B3D1ED1DFAB5960002F771 /* CalcEcho.xib in Resources */,
 				04B3D2781DFABADF0002F771 /* MDSpreadViewCornerBottomRight.png in Resources */,
-				041D21BF22CDCE210021BC56 /* LaunchScreen.storyboard in Resources */,
 				04B3D2821DFABADF0002F771 /* MDSpreadViewCornerTopRightSelected.png in Resources */,
 				04B3D26D1DFABADF0002F771 /* MDSpreadViewColumnHeaderLeft@2x.png in Resources */,
 				04B3D28A1DFABADF0002F771 /* MDSpreadViewRowHeaderTopSelected.png in Resources */,

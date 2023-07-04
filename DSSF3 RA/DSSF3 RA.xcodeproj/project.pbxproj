@@ -16,7 +16,6 @@
 		0410FBCD1E038DEA00F3BC4A /* FreqView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 0410FBCC1E038DEA00F3BC4A /* FreqView.mm */; };
 		041A021122BCDDB5002AAA42 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 041A021322BCDDB5002AAA42 /* Main_iPhone.storyboard */; };
 		041BA2862420734100E217E2 /* FftCompareView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 041BA2852420734100E217E2 /* FftCompareView.mm */; };
-		041D21BD22CDCE080021BC56 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 041D21BC22CDCE080021BC56 /* LaunchScreen.storyboard */; };
 		041D21C722CDD74B0021BC56 /* JFATabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 041D21C422CDD74B0021BC56 /* JFATabBarController.m */; };
 		041D21C822CDD74B0021BC56 /* JFAArrowView.m in Sources */ = {isa = PBXBuildFile; fileRef = 041D21C622CDD74B0021BC56 /* JFAArrowView.m */; };
 		042653121E1CE8C8008BB2A6 /* SettingsViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 042653111E1CE8C8008BB2A6 /* SettingsViewController.mm */; };
@@ -161,7 +160,6 @@
 		041A021522BCDDF8002AAA42 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main_iPhone.strings; sourceTree = "<group>"; };
 		041BA2842420734100E217E2 /* FftCompareView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FftCompareView.h; sourceTree = "<group>"; };
 		041BA2852420734100E217E2 /* FftCompareView.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = FftCompareView.mm; sourceTree = "<group>"; };
-		041D21BC22CDCE080021BC56 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = "../../DSSF3 Common/LaunchScreen.storyboard"; sourceTree = "<group>"; };
 		041D21C322CDD74B0021BC56 /* JFATabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JFATabBarController.h; path = JFATabBarController/JFATabBarController.h; sourceTree = "<group>"; };
 		041D21C422CDD74B0021BC56 /* JFATabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = JFATabBarController.m; path = JFATabBarController/JFATabBarController.m; sourceTree = "<group>"; };
 		041D21C522CDD74B0021BC56 /* JFAArrowView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = JFAArrowView.h; path = JFATabBarController/JFAArrowView.h; sourceTree = "<group>"; };
@@ -490,7 +488,6 @@
 				042C1ED7244ED49800E4F5B8 /* Preset */,
 				04D8B87F23066BEB0023A466 /* DSSF3 RA.entitlements */,
 				041D21C222CDD7270021BC56 /* JFATabBarController */,
-				041D21BC22CDCE080021BC56 /* LaunchScreen.storyboard */,
 				04F8642B1FDCFD0400DD5F1A /* Images.xcassets */,
 				0461E7F11E1E3ED700D8C60F /* Recorder */,
 				0426530F1E1CE865008BB2A6 /* Settings */,
@@ -881,7 +878,6 @@
 				04B3D12C1DFAAC1D0002F771 /* OctLeft.png in Resources */,
 				049AE61A22CC41A100F83849 /* DstView_iPhone.xib in Resources */,
 				04487B811E15077700A1080E /* CheckDisabled.png in Resources */,
-				041D21BD22CDCE080021BC56 /* LaunchScreen.storyboard in Resources */,
 				04C9E14C22C87C8B00AA27DC /* FreView_iPhone.xib in Resources */,
 				04B3D0621DFAA1FE0002F771 /* DstView_iPad.strings in Resources */,
 				046FFC25245554FC009AB198 /* PresetEditView.xib in Resources */,
