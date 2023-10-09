@@ -123,7 +123,7 @@ void CString::Format(const char *fmt, ...)
 
 	va_list argList;
 	va_start(argList, fmt);
-	vsprintf(buf, fmt, argList);
+	vsnprintf(buf, sizeof(buf), fmt, argList);
 	va_end(argList);
 
 	*this = (const char *)buf;

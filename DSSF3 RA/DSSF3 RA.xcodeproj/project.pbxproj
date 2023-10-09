@@ -1279,7 +1279,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CURRENT_PROJECT_VERSION = 5;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 6;
 				DEVELOPMENT_TEAM = 7Z6BAQ463S;
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 7Z6BAQ463S;
 				GCC_PREFIX_HEADER = "DSSF3 RA/DSSF3-Prefix.pch";
@@ -1306,8 +1307,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CURRENT_PROJECT_VERSION = 5;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CURRENT_PROJECT_VERSION = 6;
 				DEVELOPMENT_TEAM = 7Z6BAQ463S;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 7Z6BAQ463S;
 				GCC_PREFIX_HEADER = "DSSF3 RA/DSSF3-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
 					../PCSERVE/PCSERVE,
@@ -1324,6 +1327,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "cc7db577-a169-4f6a-a578-2ca0b6ef9b29";
 				PROVISIONING_PROFILE_SPECIFIER = DSSF3_RA_AdHoc;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = DSSF3_RA_AdHoc;
 			};
 			name = Release;
 		};
