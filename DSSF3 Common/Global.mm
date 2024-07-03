@@ -47,7 +47,7 @@ void MakeWindowFunc(int type, int size, float *data, float fMul)
 				*data++ = m;
 				break;
 			case WF_TRIANGLAR:
-				*data++ = (float)(1.0 - abs(size / 2 - i) / (size / 2)) * m;
+				*data++ = (float)(1.0 - abs(size / 2 - i) / (float)(size / 2)) * m;
 				break;
 			case WF_HAMMING:
 				*data++ = (float)(0.54 - 0.46 * cos(2 * M_PI * i / (size1))) * m;
