@@ -829,8 +829,10 @@
             bAutoFreq = YES;
             bAutoLevel = YES;
             bFreqScale = YES;
+            bSmoothing = YES;
             bTimeDir = YES;
             bTimeRange = YES;
+            bAverage = YES;
             bChannel = YES;
             bFilter = YES;
             if (!g_oSetData.Fft.bAutoFreq) {
