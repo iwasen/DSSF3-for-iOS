@@ -17,6 +17,13 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    if (@available(iOS 18, *)) {
+        if ([[UIDevice currentDevice] userInterfaceIdiom] == UIUserInterfaceIdiomPad) {
+            [[self traitOverrides] setHorizontalSizeClass:UIUserInterfaceSizeClassCompact];
+        }
+    }
+
     // Do any additional setup after loading the view.
     self.delegate = self;
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="sLe-49-yVI">
-    <device id="ipad9_7" orientation="portrait" layout="fullscreen" appearance="light"/>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="sLe-49-yVI">
+    <device id="ipad7_9" orientation="portrait" layout="fullscreen" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -13,7 +13,7 @@
             <objects>
                 <navigationController id="sLe-49-yVI" sceneMemberID="viewController">
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="aDp-es-Lgm">
-                        <rect key="frame" x="0.0" y="0.0" width="768" height="50"/>
+                        <rect key="frame" x="0.0" y="24" width="744" height="50"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <connections>
@@ -33,7 +33,7 @@
                         <viewControllerLayoutGuide type="bottom" id="MKt-YL-fbk"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
-                        <rect key="frame" x="0.0" y="0.0" width="768" height="974"/>
+                        <rect key="frame" x="0.0" y="0.0" width="744" height="1059"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Kr0-fM-b7E" customClass="RtaView">
@@ -111,15 +111,15 @@
             <objects>
                 <tableViewController title="DSSF3 - Settings" id="oyk-vn-Hb3" customClass="SettingsViewController" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="grouped" separatorStyle="default" allowsSelection="NO" rowHeight="71" sectionHeaderHeight="18" sectionFooterHeight="18" id="sDm-Cn-xrd">
-                        <rect key="frame" x="0.0" y="0.0" width="768" height="974"/>
+                        <rect key="frame" x="0.0" y="0.0" width="744" height="1059"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" systemColor="groupTableViewBackgroundColor"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Brightness" rowHeight="71" id="0yI-KE-2FE" customClass="BrightnessViewCell">
-                                <rect key="frame" x="0.0" y="55.5" width="768" height="71"/>
+                                <rect key="frame" x="0.0" y="55.5" width="744" height="71"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="0yI-KE-2FE" id="8A5-jD-KUQ">
-                                    <rect key="frame" x="0.0" y="0.0" width="768" height="71"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="744" height="71"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <slider opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="1" minValue="0.5" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="0aq-6A-Okv">
@@ -1458,10 +1458,10 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="Header" id="XMc-HD-6xy">
-                                <rect key="frame" x="0.0" y="28" width="768" height="43.5"/>
+                                <rect key="frame" x="0.0" y="50" width="768" height="44.5"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="XMc-HD-6xy" id="aq3-wt-mSU">
-                                    <rect key="frame" x="0.0" y="0.0" width="768" height="43.5"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="768" height="44.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" fixedFrame="YES" animating="YES" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="V4n-Av-3Dq">
@@ -1472,7 +1472,7 @@
                                 </tableViewCellContentView>
                             </tableViewCell>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell" textLabel="53e-gX-rfR" detailTextLabel="1X9-0f-oo7" style="IBUITableViewCellStyleSubtitle" id="z48-A4-78d">
-                                <rect key="frame" x="0.0" y="71.5" width="768" height="55.5"/>
+                                <rect key="frame" x="0.0" y="94.5" width="768" height="55.5"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="z48-A4-78d" id="b0z-yk-yQ0">
                                     <rect key="frame" x="0.0" y="0.0" width="768" height="55.5"/>
@@ -1513,7 +1513,7 @@
                 <navigationController id="MCe-L4-i9X" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="Preset" image="PRE.png" id="BH2-ov-IOP"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="mUV-xa-TsU">
-                        <rect key="frame" x="0.0" y="0.0" width="768" height="50"/>
+                        <rect key="frame" x="0.0" y="24" width="768" height="64"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <connections>
@@ -1552,7 +1552,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <prototypes>
                             <tableViewCell clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="Header" id="3jf-FC-wll">
-                                <rect key="frame" x="0.0" y="28" width="768" height="44"/>
+                                <rect key="frame" x="0.0" y="50" width="768" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="3jf-FC-wll" id="CVZ-LN-uk9">
                                     <rect key="frame" x="0.0" y="0.0" width="768" height="44"/>
@@ -1566,7 +1566,7 @@
                                 </tableViewCellContentView>
                             </tableViewCell>
                             <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell" textLabel="ikW-pN-xu3" detailTextLabel="k9n-FJ-Btf" style="IBUITableViewCellStyleSubtitle" id="FJ7-LP-nKn">
-                                <rect key="frame" x="0.0" y="72" width="768" height="44"/>
+                                <rect key="frame" x="0.0" y="94" width="768" height="44"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="FJ7-LP-nKn" id="w0F-1j-YXq">
                                     <rect key="frame" x="0.0" y="0.0" width="768" height="44"/>
@@ -3648,161 +3648,6 @@
             <point key="canvasLocation" x="-4082" y="983"/>
         </scene>
     </scenes>
-    <designables>
-        <designable name="5YH-JV-xk1">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="6d5-es-pR5">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="7SR-2p-o0d">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="7aa-UY-dyz">
-            <size key="intrinsicContentSize" width="47" height="30"/>
-        </designable>
-        <designable name="7zy-g7-y8V">
-            <size key="intrinsicContentSize" width="39" height="30"/>
-        </designable>
-        <designable name="AYv-l6-Rvg">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="B3S-Oo-EDA">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="Cbt-ID-IAt">
-            <size key="intrinsicContentSize" width="34" height="30"/>
-        </designable>
-        <designable name="DIq-Xc-1L8">
-            <size key="intrinsicContentSize" width="54" height="30"/>
-        </designable>
-        <designable name="E5R-Yu-x2D">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="EKF-MA-iNA">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="Ecq-iX-hnx">
-            <size key="intrinsicContentSize" width="39" height="30"/>
-        </designable>
-        <designable name="Fmf-eQ-jPf">
-            <size key="intrinsicContentSize" width="31" height="30"/>
-        </designable>
-        <designable name="HeL-IU-O5j">
-            <size key="intrinsicContentSize" width="62" height="30"/>
-        </designable>
-        <designable name="J4F-r0-1Om">
-            <size key="intrinsicContentSize" width="46" height="30"/>
-        </designable>
-        <designable name="LZM-eh-1Ba">
-            <size key="intrinsicContentSize" width="45" height="30"/>
-        </designable>
-        <designable name="Lf9-7h-rB4">
-            <size key="intrinsicContentSize" width="34" height="30"/>
-        </designable>
-        <designable name="N3Z-PW-eyH">
-            <size key="intrinsicContentSize" width="67" height="30"/>
-        </designable>
-        <designable name="N8t-8O-WUa">
-            <size key="intrinsicContentSize" width="74" height="30"/>
-        </designable>
-        <designable name="NXb-tN-OJz">
-            <size key="intrinsicContentSize" width="54" height="30"/>
-        </designable>
-        <designable name="Q4Z-XY-tZY">
-            <size key="intrinsicContentSize" width="31" height="30"/>
-        </designable>
-        <designable name="Qw2-EN-hiN">
-            <size key="intrinsicContentSize" width="48" height="30"/>
-        </designable>
-        <designable name="Rvv-Hs-nLg">
-            <size key="intrinsicContentSize" width="65" height="30"/>
-        </designable>
-        <designable name="Sey-uK-4mf">
-            <size key="intrinsicContentSize" width="45" height="30"/>
-        </designable>
-        <designable name="U2X-gp-K8F">
-            <size key="intrinsicContentSize" width="34" height="30"/>
-        </designable>
-        <designable name="X7y-SK-hrd">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="Y3G-RE-bH5">
-            <size key="intrinsicContentSize" width="46" height="30"/>
-        </designable>
-        <designable name="aMd-gg-nA8">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="ais-aw-7l7">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="b0k-P1-gFJ">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="bKh-3e-kNu">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="cAn-ae-BSv">
-            <size key="intrinsicContentSize" width="34" height="30"/>
-        </designable>
-        <designable name="cT1-Ug-A5a">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="fvx-8h-6iv">
-            <size key="intrinsicContentSize" width="39" height="30"/>
-        </designable>
-        <designable name="gF5-Cr-poF">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="h9X-gE-vbQ">
-            <size key="intrinsicContentSize" width="42" height="30"/>
-        </designable>
-        <designable name="iRD-vH-GOU">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="iXi-rp-nOh">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="jZv-Rm-VU5">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="kj1-Jk-PdL">
-            <size key="intrinsicContentSize" width="30" height="30"/>
-        </designable>
-        <designable name="kjY-3B-Ilj">
-            <size key="intrinsicContentSize" width="42" height="30"/>
-        </designable>
-        <designable name="mEJ-Fz-GCb">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="oBW-Ma-ENh">
-            <size key="intrinsicContentSize" width="34" height="30"/>
-        </designable>
-        <designable name="pGA-M8-6cd">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="raq-wd-Y4k">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="syZ-0i-los">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-        <designable name="vI5-U1-IVU">
-            <size key="intrinsicContentSize" width="63" height="30"/>
-        </designable>
-        <designable name="vYr-D5-Kdz">
-            <size key="intrinsicContentSize" width="54" height="30"/>
-        </designable>
-        <designable name="wku-jy-dlD">
-            <size key="intrinsicContentSize" width="30" height="30"/>
-        </designable>
-        <designable name="y2b-JG-95O">
-            <size key="intrinsicContentSize" width="30" height="30"/>
-        </designable>
-        <designable name="yiT-57-gdQ">
-            <size key="intrinsicContentSize" width="6" height="18"/>
-        </designable>
-    </designables>
     <resources>
         <image name="CheckDisabled.png" width="13.5" height="9.75"/>
         <image name="CheckOff.png" width="13.5" height="9.75"/>
@@ -3822,7 +3667,7 @@
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
         <systemColor name="systemTealColor">
-            <color red="0.35294117647058826" green="0.78431372549019607" blue="0.98039215686274506" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.18823529411764706" green="0.69019607843137254" blue="0.7803921568627451" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
