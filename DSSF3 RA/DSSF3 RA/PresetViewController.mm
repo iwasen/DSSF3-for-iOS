@@ -227,8 +227,6 @@
         presentationController.delegate = self;
         [self presentViewController:presetEditViewController animated: YES completion: nil];
     } else {
-        int aa = indexPath.row;
-        NSString *ss =_presetList[0].fileName;
         NSString *pathName = [self getPathName:_presetList[indexPath.row].fileName];
         NSURL *url = [NSURL fileURLWithPath:pathName];
         NSFileAccessIntent *readingIntent = [NSFileAccessIntent readingIntentWithURL:url
