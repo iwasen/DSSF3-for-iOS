@@ -56,7 +56,7 @@
 			<key>NSUbiquitousContainerName</key>
 			<string>DSSF3 RA</string>
 			<key>NSUbiquitousContainerSupportedFolderLevels</key>
-			<string>None</string>
+			<string>Any</string>
 		</dict>
 	</dict>
 	<key>UIFileSharingEnabled</key>

@@ -45,6 +45,7 @@
 "IDS_MSG_CHANGEDATA" = "データが変更されています。保存しますか？";
 "IDS_MSG_UNDER0FREQ" = "周波数が０以下のデータは入力できません。";
 "IDS_MSG_INPUTNDATA" = "追加できるデータは %d 個までです。";
+"IDS_MSG_ICLOUDDRIVE" = "設定でiCloudドライブを有効にしてください。";
 /*
 common
 */

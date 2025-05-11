@@ -47,6 +47,7 @@
 "IDS_MSG_CHANGEDATA" = "Data has changed. Save it?";
 "IDS_MSG_UNDER0FREQ" = "Can't input data with under 0 frequency.";
 "IDS_MSG_INPUTNDATA" = "Can't input more than %d data.";
+"IDS_MSG_ICLOUDDRIVE" = "Please enable iCloud Drive in Settings.";
 /*
  common
  */

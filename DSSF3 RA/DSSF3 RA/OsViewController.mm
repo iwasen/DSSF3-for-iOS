@@ -140,6 +140,14 @@ static const int tLevelRange[] = {
 //	_nTimeCount = -1;
     _bLch = NO;
     _bRch = NO;
+    
+    if (IS_PAD) {
+        if (self.outletGraphView.frame.size.width == 467.5) {
+            CGRect rect = self.outletGraphView.frame;
+            rect.size.height = 510;
+            self.outletGraphView.frame = rect;
+        }
+    }
     _rectGraphView = self.outletGraphView.frame;
 
     [self initViews];
@@ -643,7 +651,12 @@ static const int tLevelRange[] = {
         [self.outletDispMode setTitle:NSLocalizedString(@"IDS_SETTINGS", nil) forState:UIControlStateNormal];
         //self.outletGraphView.frame = self.view.bounds;
         [self.outletGraphView removeFromSuperview];
-        self.outletGraphView.frame = CGRectMake(0, 0, self.view.bounds.size.width, 771);   //viewDidLoadでheight=1024となってしまうための応急処置
+        CGRect rect = self.view.bounds;
+        if (rect.size.height >= 1024) {
+            rect.size.height = 771.0 * rect.size.height / 1024.0;
+        }
+        self.outletGraphView.frame = rect;
+        //viewDidLoadでheight=1024となってしまうための応急処置
         [self.view addSubview:self.outletGraphView];
     }
     

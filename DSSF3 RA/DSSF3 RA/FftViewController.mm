@@ -66,6 +66,14 @@
 
     [self setMode:g_oSetData.Fft.nMode];
     self.outletGraphView.translatesAutoresizingMaskIntoConstraints = YES;
+    
+    if (IS_PAD) {
+        if (self.outletGraphView.frame.size.width == 569) {
+            CGRect rect = self.outletGraphView.frame;
+            rect.size.height = 310;
+            self.outletGraphView.frame = rect;
+        }
+    }
     _rectGraphView = self.outletGraphView.frame;
 
 	[self setMicCalData];
@@ -89,7 +97,7 @@
 	[self stop];
 }
 
--(void)viewDidLayoutSubviews
+- (void)viewDidLayoutSubviews
 {
 	[super viewDidLayoutSubviews];
 

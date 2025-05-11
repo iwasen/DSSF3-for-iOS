@@ -84,6 +84,8 @@
 	for (viewController in self.childViewControllers)
 		[self hideContentController:viewController];
 	viewController = _FreViews[g_oSetData.Fre.nMode];
+    CGRect rect =self.outletFreContainer.bounds;
+
 	viewController.view.frame = self.outletFreContainer.bounds;
 
 	if (IS_PHONE) {

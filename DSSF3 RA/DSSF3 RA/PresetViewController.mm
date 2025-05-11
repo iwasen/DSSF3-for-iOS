@@ -106,7 +106,10 @@
 - (void)insertNewPreset:(id)sender
 {
     NSString *fileName = [self checkFileName:@"New Preset"];
-    [self savePresetFile:fileName];
+    if ([self savePresetFile:fileName] == NO) {
+        ::MessageBoxOK(self, NSLocalizedString(@"IDS_MSG_ICLOUDDRIVE", nil), NULL);
+        return;
+    }
     
     PresetList *preset = [[PresetList alloc] init];
     preset.fileName = fileName;
@@ -117,9 +120,12 @@
     [self.tableView insertRowsAtIndexPaths:[NSArray arrayWithObject:indexPath] withRowAnimation:UITableViewRowAnimationFade];
 }
 
-- (void)savePresetFile:(NSString *)fileName
+- (Boolean)savePresetFile:(NSString *)fileName
 {
     NSString *presetDir = [self getPresetDir];
+    if (presetDir == nil) {
+        return NO;
+    }
     NSString *filePath = [[presetDir stringByAppendingPathComponent:fileName] stringByAppendingPathExtension:PRESET_EXT];
 
     NSFileManager *fileManager = [NSFileManager defaultManager];
@@ -133,11 +139,17 @@
 //    [NSKeyedArchiver archiveRootObject:setData toFile:filePath];
     NSData *data = [NSKeyedArchiver archivedDataWithRootObject:setData requiringSecureCoding:NO error:nil];
     [data writeToFile:filePath atomically:NO];
+    
+    return YES;
 }
 
 - (NSString *)getPresetDir
 {
     NSURL *containerURL = [[NSFileManager defaultManager] URLForUbiquityContainerIdentifier:nil];
+    if (containerURL == nil) {
+        return nil;
+    }
+
     NSString *documentsDir = [[containerURL URLByAppendingPathComponent:@"Documents"] path];
     NSString *presetDir = [documentsDir stringByAppendingPathComponent:PRESET_DIR];
     
@@ -215,6 +227,8 @@
         presentationController.delegate = self;
         [self presentViewController:presetEditViewController animated: YES completion: nil];
     } else {
+        int aa = indexPath.row;
+        NSString *ss =_presetList[0].fileName;
         NSString *pathName = [self getPathName:_presetList[indexPath.row].fileName];
         NSURL *url = [NSURL fileURLWithPath:pathName];
         NSFileAccessIntent *readingIntent = [NSFileAccessIntent readingIntentWithURL:url
