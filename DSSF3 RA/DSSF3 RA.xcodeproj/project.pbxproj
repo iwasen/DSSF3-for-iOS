@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 60;
+	objectVersion = 77;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -848,7 +848,6 @@
 				};
 			};
 			buildConfigurationList = 04B3CFB71DFA91130002F771 /* Build configuration list for PBXProject "DSSF3 RA" */;
-			compatibilityVersion = "Xcode 15.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -857,6 +856,7 @@
 				ja,
 			);
 			mainGroup = 04B3CFB31DFA91130002F771;
+			preferredProjectObjectVersion = 77;
 			productRefGroup = 04B3CFBD1DFA91130002F771 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
