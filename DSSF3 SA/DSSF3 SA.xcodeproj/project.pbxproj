@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 90;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -341,13 +341,11 @@
 /* Begin PBXFrameworksBuildPhase section */
 		04B3CFDC1DFA91460002F771 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
 			files = (
 				04B3D1BD1DFAB0D30002F771 /* libPCSERVE.a in Frameworks */,
 				04B3D1BB1DFAB0CF0002F771 /* libPCSCL.a in Frameworks */,
 				04B3D1B91DFAB0CA0002F771 /* AudioToolbox.framework in Frameworks */,
 			);
-			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
@@ -731,8 +729,6 @@
 			);
 			buildRules = (
 			);
-			dependencies = (
-			);
 			name = "DSSF3 SA";
 			productName = "DSSF3 SA";
 			productReference = 04B3CFDF1DFA91460002F771 /* DSSF3 SA.app */;
@@ -745,7 +741,7 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = YES;
-				LastUpgradeCheck = 1530;
+				LastUpgradeCheck = 2600;
 				ORGANIZATIONNAME = TRC;
 				TargetAttributes = {
 					04B3CFDE1DFA91460002F771 = {
@@ -764,7 +760,7 @@
 				ja,
 			);
 			mainGroup = 04B3CFD61DFA91460002F771;
-			preferredProjectObjectVersion = 77;
+			preferredProjectObjectVersion = 90;
 			productRefGroup = 04B3CFE01DFA91460002F771 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -777,7 +773,6 @@
 /* Begin PBXResourcesBuildPhase section */
 		04B3CFDD1DFA91460002F771 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
 			files = (
 				042737F41DFBD350004C296A /* SampleEng in Resources */,
 				048A92AC22D88929003B07FE /* Graph_iPhone.xib in Resources */,
@@ -834,14 +829,12 @@
 				04B3D28B1DFABADF0002F771 /* MDSpreadViewRowHeaderTopSelected@2x.png in Resources */,
 				04B3D2771DFABADF0002F771 /* MDSpreadViewCornerBottomLeftSelected@2x.png in Resources */,
 			);
-			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		04B3CFDB1DFA91460002F771 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
 			files = (
 				04B3D2431DFABAC90002F771 /* MDSpreadViewCellRowHeaderBackground.m in Sources */,
 				04B3D20D1DFAB6C50002F771 /* Mrnd.mm in Sources */,
@@ -909,7 +902,6 @@
 				04B3D1941DFAB0860002F771 /* CalcViewController.mm in Sources */,
 				04B3D1E31DFAB4A00002F771 /* CtComboBox.m in Sources */,
 			);
-			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
@@ -1025,7 +1017,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		04B3CFF41DFA91460002F771 /* Debug */ = {
+		04B3CFF41DFA91460002F771 /* Debug configuration for PBXProject "DSSF3 SA" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -1060,6 +1052,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 7Z6BAQ463S;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -1081,11 +1074,12 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		04B3CFF51DFA91460002F771 /* Release */ = {
+		04B3CFF51DFA91460002F771 /* Release configuration for PBXProject "DSSF3 SA" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -1121,6 +1115,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 7Z6BAQ463S;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -1135,18 +1130,18 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		04B3CFF71DFA91460002F771 /* Debug */ = {
+		04B3CFF71DFA91460002F771 /* Debug configuration for PBXNativeTarget "DSSF3 SA" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 7;
-				DEVELOPMENT_TEAM = 7Z6BAQ463S;
+				CURRENT_PROJECT_VERSION = 8;
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 7Z6BAQ463S;
 				GCC_PREFIX_HEADER = "DSSF3 SA/DSSF3-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
@@ -1168,13 +1163,12 @@
 			};
 			name = Debug;
 		};
-		04B3CFF81DFA91460002F771 /* Release */ = {
+		04B3CFF81DFA91460002F771 /* Release configuration for PBXNativeTarget "DSSF3 SA" */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
-				CURRENT_PROJECT_VERSION = 7;
-				DEVELOPMENT_TEAM = 7Z6BAQ463S;
+				CURRENT_PROJECT_VERSION = 8;
 				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 7Z6BAQ463S;
 				GCC_PREFIX_HEADER = "DSSF3 SA/DSSF3-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
@@ -1202,19 +1196,17 @@
 		04B3CFDA1DFA91460002F771 /* Build configuration list for PBXProject "DSSF3 SA" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				04B3CFF41DFA91460002F771 /* Debug */,
-				04B3CFF51DFA91460002F771 /* Release */,
+				04B3CFF41DFA91460002F771 /* Debug configuration for PBXProject "DSSF3 SA" */,
+				04B3CFF51DFA91460002F771 /* Release configuration for PBXProject "DSSF3 SA" */,
 			);
-			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 		04B3CFF61DFA91460002F771 /* Build configuration list for PBXNativeTarget "DSSF3 SA" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				04B3CFF71DFA91460002F771 /* Debug */,
-				04B3CFF81DFA91460002F771 /* Release */,
+				04B3CFF71DFA91460002F771 /* Debug configuration for PBXNativeTarget "DSSF3 SA" */,
+				04B3CFF81DFA91460002F771 /* Release configuration for PBXNativeTarget "DSSF3 SA" */,
 			);
-			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */

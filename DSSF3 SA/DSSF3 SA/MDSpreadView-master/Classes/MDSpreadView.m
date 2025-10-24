@@ -48,7 +48,7 @@ static CGFloat MDRound(CGFloat value)
     return (CGFloat)round(((double)value)*((double)scale))/scale;
 }
 
-static CGFloat MDPixel()
+static CGFloat MDPixel(void)
 {
     static CGFloat scale = 0;
     if (scale <= 0) {

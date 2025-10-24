@@ -34,6 +34,36 @@
             endingLineNumber = "114"
             landmarkName = "-setSelectedIndex:"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "36432041-7979-4E9F-8704-23489318F028 - 549ef643a1580e05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JFATabBarController setSelectedIndex:]"
+                  moduleName = "DSSF3 RA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aizawa/Documents/DSSF3%20for%20iOS/DSSF3%20RA/DSSF3%20RA/JFATabBarController/JFATabBarController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114">
+               </Location>
+               <Location
+                  uuid = "36432041-7979-4E9F-8704-23489318F028 - 549ef643a1580e05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[JFATabBarController setSelectedIndex:]"
+                  moduleName = "DSSF3 RA"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aizawa/Documents/DSSF3%20for%20iOS/DSSF3%20RA/DSSF3%20RA/JFATabBarController/JFATabBarController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
